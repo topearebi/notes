@@ -5,4 +5,12 @@ config.set("plugs", {
   -- Add your plugs here (https://silverbullet.md/Plugs)
   -- Then run the `Plugs: Update` command to update them
 })
+
+config.set("git", {
+  autoSync = true,
+  syncInterval = 300  -- Sync every 5 minutes (in seconds)
+})
+
+config.set("dailyNoteTemplate", "templates/Daily Note Template")
+config.set("dailyNotePrefix", "Daily/")  -- Stores in journal/ folder
 ```
