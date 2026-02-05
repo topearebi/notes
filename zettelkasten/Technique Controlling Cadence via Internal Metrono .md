@@ -1,0 +1,3 @@
+# Technique: Controlling Cadence via Internal Metronome and Emotional Regulation
+
+Control over vocal cadence can be achieved by developing an "internal metronome" – a sense of consistent tempo and rhythm regulation. This allows for conscious control over the emotional pattern conveyed through speech, including variations in pace and vocal range, rather than letting speech be passively driven by emotion.

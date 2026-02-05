@@ -1,0 +1,2 @@
+
+▪ To me the Universe was all void of Life, or Purpose, of Volition, even of Hostility; it was one huge, dead, immeasurable Steam-engine, rolling on, in its dead indifference, to grind me limb from limb

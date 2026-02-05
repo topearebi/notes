@@ -1,0 +1,1 @@
+Vocal cadence refers to the rhythm and pacing of speech. It's how the flow of words is structured over time. Effective communicators (or "seducers" in the source's context) often create their own distinct cadence and are sensitive to the cadence of others. Rhythm can either enhance the impact of words or distract from the message.

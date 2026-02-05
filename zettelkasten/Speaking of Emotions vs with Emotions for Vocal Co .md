@@ -1,0 +1,3 @@
+# Speaking of Emotions vs. with Emotions for Vocal Control
+
+A key difference in vocal control, particularly for persuasion or "seduction," lies in the presentation of emotion. An average speaker often speaks *with* their raw emotions driving their vocal patterns. A controlled speaker (a "seducer") speaks *of* their emotions, implying a conscious understanding and regulation of how emotion is conveyed through voice, rather than being unconsciously led by it.

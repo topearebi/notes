@@ -1,0 +1,1 @@
+Provide practical advice to colleagues on utilizing technology effectively and staying safe online. This could include tips on time management tools, cybersecurity best practices, and utilizing university resources.

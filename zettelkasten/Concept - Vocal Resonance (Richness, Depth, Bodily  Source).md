@@ -1,0 +1,1 @@
+Vocal resonance refers to the richness and depth perceived in a voice. It relates to how deeply rooted the voice seems within the speaker's body (e.g., chest vs. nasal cavity) and the perceived distance or space it intends to fill or project into.

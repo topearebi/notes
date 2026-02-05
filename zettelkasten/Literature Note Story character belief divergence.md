@@ -1,0 +1,4 @@
+Venkatesh Rao speaks on this using Doctor Who as a reference 
+While these characters are sometimes given redemptive plot arcs, and usually noble endings (Rory gets to wait 2000 years as a sentient plastic clone for Amy), in general they are punchlines in most episodes. They are there to remind us that self-absorbed human lives are in fact small and dull backwater marginal plot lines in the grand drama of the cosmos. The Doctor often claims the opposite (“I think they’re giants”) but the stories belie that high-minded posturing.
+
+From https://www.ribbonfarm.com/2024/03/13/storytelling-just-add-dinosaurs/

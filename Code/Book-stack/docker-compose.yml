@@ -1,0 +1,29 @@
+
+services:
+  lazylibrarian:
+      image: lscr.io/linuxserver/lazylibrarian:latest
+          container_name: lazylibrarian
+              environment:
+                    - PUID=1000 # Replace with your PUID
+                          - PGID=1000 # Replace with your PGID
+                                - TZ=Europe/London # Replace with your timezone
+                                    volumes:
+                                          - ./lazylibrarian-config:/config # LazyLibrarian config
+                                                - ./books:/books # The shared books folder
+                                                    ports:
+                                                          - 5299:5299
+                                                              restart: unless-stopped
+
+                                                                calibre-web:
+                                                                    image: lscr.io/linuxserver/calibre-web:latest
+                                                                        container_name: calibre-web
+                                                                            environment:
+                                                                                  - PUID=1000 # Replace with your PUID
+                                                                                        - PGID=1000 # Replace with your PGID
+                                                                                              - TZ=Europe/London # Replace with your timezone
+                                                                                                  volumes:
+                                                                                                        - ./calibre-web-config:/config # Calibre-Web config
+                                                                                                              - ./books:/books # The shared books folder
+                                                                                                                  ports:
+                                                                                                                        - 8083:8083
+                                                                                                                            restart: unless-stopped
