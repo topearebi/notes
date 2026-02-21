@@ -1,0 +1,6 @@
+Flowers for Algernon - Daniel Keyes.epub (Highlight: 1; Note: 0)
+
+───────────────
+
+▪ July 31—I'm on the edge of it. I sense it. They all think I'm killing myself at this pace, but what they don't understand is that I'm living at a peak of clarity and beauty I never knew existed. Every part of me is attuned to the work. I soak it up into my pores during the day, and at night—in the moments before I pass off into sleep—ideas explode into my head like fireworks. There is no greater joy than the burst of solution to a problem.
+Incredible that anything could happen to take away this bubbling energy, the zest that fills everything I do. It's as if all the knowledge I've soaked in during the past months has coalesced and lifted me to a peak of light and understanding. This is beauty, love, and truth all rolled into one. This is joy. And now that I've found it, how can I give it up? Life and work are the most wonderful things a man can have. I am in love with what I am doing, because the answer to this problem is right here in my mind, and soon—very soon—it will burst into consciousness. Let me solve this one problem. I pray God it is the answer I want, but if not I will accept any answer at all and try to be grateful for what I had.

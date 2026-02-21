@@ -1,38 +1,55 @@
-# Command Center
+# 🎛️ Command Center
 
-**Quick Create:** [[Ctrl+K]] to create page | [[business/]] [[Certification/]] [[zettelkasten/]]
-
----
-
-## Navigation
-
-### Work & Business
-- [[business/]] - All business notes
-- [[UoS]] - Current work tasks
-
-### Learning & Development  
-- [[Certification/Dashboard]] - Cert progress & study plans
-- [[zettelkasten/]] - Permanent notes
-
-### Knowledge Management
-- [[Everything I know]] - Main knowledge base
-- [[Marginalian notes]] - Book/article notes
-- [[booknotes/]] - Reading notes
-
-### Reference
-- [[Home Server Documentation/]]
-- [[Repositories/]] - Code & technical docs
-- [[Library/]] - Resources
-
-### Systems
-- [[Morning]] - Morning routine
-- [[Today]] - Daily scratchpad (**Today: {{today}}**)
+${widgets.commandButton("✨ New Object", "New Object")}
 
 ---
 
-## Quick Links to Active Projects
-```query
-page where page =~ /business/ order by lastModified desc limit 5
-page order by lastModified desc limit 7
-```
+## 📓 Journal
+${widgets.commandButton("➕ New Entry", "New Journal Entry")}
 
+**Recent Entries:**
+${table.concat(query[[
+  from index.tag "daily"
+  where name != "templates/daily_note"
+  order by name desc
+  limit 3
+  select "* [[" .. name .. "]]"
+]], "\n")}
+
+---
+
+## 📥 Inbox (Needs Filing)
+${table.concat(query[[
+  from p = index.tag "page"
+  where not string.find(p.name, "/") 
+  and p.name != "index" 
+  and p.name != "CONFIG" 
+  and p.name != "SETTINGS" 
+  and p.name != "PLUGS"
+  and p.name != "projects"
+  and p.name != "resources"
+  and p.name != "zettelkasten"
+  and p.name != "archive"
+  and p.name != "journal"
+  and p.name != "templates"
+  select "* [[" .. p.name .. "]]"
+]], "\n")}
+
+---
+
+## 🧭 Navigation
+| | |
+|---|---|
+| **[[projects]]** | **[[resources]]** |
+| **[[zettelkasten]]** | **[[archive/]]** |
+
+---
+
+## ⚡ Active Work
+${table.concat(query[[
+  from p = index.tag "page"
+  where p.name ~= "index" and not string.find(p.name, "^archive/") and not string.find(p.name, "^journal/")
+  order by p.lastModified desc
+  limit 5
+  select "* [[" .. p.name .. "]]"
+]], "\n")}

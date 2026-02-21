@@ -6,11 +6,10 @@ config.set("plugs", {
   -- Then run the `Plugs: Update` command to update them
 })
 
+-- 2. GIT CONFIGURATION
 config.set("git", {
   autoSync = true,
   syncInterval = 300  -- Sync every 5 minutes (in seconds)
 })
 
-config.set("dailyNoteTemplate", "templates/Daily Note Template")
-config.set("dailyNotePrefix", "Daily/")  -- Stores in journal/ folder
 ```
