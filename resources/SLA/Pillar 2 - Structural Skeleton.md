@@ -1,4 +1,4 @@
-[[resources/SLA/Pillar 1 - Phonetic Foundation]] [[resources/SLA/Pillar 3 - The Vocabulary Engine]] [[resources/SLA/Pillar 4 - The Input Output Loop]]
+[[resources/SLA/Pillar 1 - Phonetic Foundation]] [[resources/SLA/Pillar 3 - The Vocabulary Engine]] [[resources/SLA/Pillar 4 - The Input Output Loop]] [[resources/SLA/tools]] [[resources/SLA/Scheduling]] 
 ## 2.1 Language Typology (The "Lego vs. Clay" Audit)
 **Order of Implementation:** 1. Identify the morphological classification of your target language. 
 2. Determine if it is Head-Initial or Head-Final. 
@@ -69,7 +69,6 @@
 | **Temporal** | Before / After | *Yǐqián* (Mandarin) | Placed *after* the event: [Event] + *yǐqián* (Before [Event]). |
 
 ---
-
 
 
 ## 2.5 Parallel Track: Script Anatomy

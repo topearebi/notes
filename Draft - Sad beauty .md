@@ -6,10 +6,11 @@ status: idea
 
 > **Core Idea:** (One sentence summary)
 
----
-
-## ✍️ Content
 You are sad
 You are sad because you are so beautiful
 How terrible it is for you
 To be so pretty 
+
+---
+
+## ✍️ Content

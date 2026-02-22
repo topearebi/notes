@@ -1,4 +1,4 @@
-[[resources/SLA/Pillar 2 - Structural Skeleton]][[resources/SLA/Pillar 3 - The Vocabulary Engine]] [[resources/SLA/Pillar 4 - The Input Output Loop]] 
+[[resources/SLA/Pillar 2 - Structural Skeleton]][[resources/SLA/Pillar 3 - The Vocabulary Engine]] [[resources/SLA/Pillar 4 - The Input Output Loop]] [[resources/SLA/tools]] [[resources/SLA/Scheduling]] 
 ## 1.1 The Phonemic Audit (Inventory & Mechanics)
 **Order of Implementation:** 1. Pull the complete IPA (International Phonetic Alphabet) chart for your target language.
 2. Cross-reference it with your native language's IPA chart. 

@@ -1,4 +1,4 @@
-[[resources/SLA/Pillar 1 - Phonetic Foundation]] [[resources/SLA/Pillar 2 - Structural Skeleton]] [[resources/SLA/Pillar 4 - The Input Output Loop]] 
+[[resources/SLA/Pillar 1 - Phonetic Foundation]] [[resources/SLA/Pillar 2 - Structural Skeleton]] [[resources/SLA/Pillar 4 - The Input Output Loop]] [[resources/SLA/tools]] [[resources/SLA/Scheduling]] 
 ## 3.1 Tier 1: The "Function" Foundation (Cloze Exemption)
 **Order of Implementation:** 1. Source a frequency dictionary for your target language.
 2. Isolate the top 100 words (these will almost entirely be pronouns, prepositions, conjunctions, and existential verbs like *to be* or *to have*).

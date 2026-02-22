@@ -1,0 +1,314 @@
+
+## 1.1 The Phonemic Audit (Inventory & Mechanics)
+
+Below is your "Mouth Hack" matrix. These are the sounds that require you to physically calibrate your vocal tract differently than you do in English.
+
+| Pinyin | IPA Symbol | Description (Place/Manner) | The Physical "Mouth Hack" (Execution) |
+|---|---|---|---|
+| **x** | /ɕ/ | Voiceless alveolo-palatal fricative | Keep the tip of your tongue resting strictly behind your bottom teeth. Raise the flat middle of your tongue toward the roof of your mouth and push air through. It sounds like a lighter, "hissier" English 'sh'. |
+| **j** | /tɕ/ | Unaspirated alveolo-palatal affricate | Same tongue position as 'x' (tip behind bottom teeth). Stop the airflow briefly, then release it without a puff of air. Sounds like a tight, sharp 'j' or 'dz'. |
+| **q** | /tɕʰ/ | Aspirated alveolo-palatal affricate | Same tongue position as 'j', but release the air with a massive, sharp puff. Hold a piece of paper in front of your mouth; it should jump. Sounds like a tight, breathy 'ch'. |
+| **zh** | /ʈʂ/ | Unaspirated retroflex affricate | Curl the tip of your tongue backward so it points toward the hard palate (the roof of your mouth further back). Say 'j' but with no puff of air. |
+| **ch** | /ʈʂʰ/ | Aspirated retroflex affricate | Same curled-back tongue position as 'zh', but release a massive puff of air. Sounds like a hollow, heavy 'ch'. |
+| **sh** | /ʂ/ | Voiceless retroflex fricative | Same curled-back tongue position. Blow air smoothly over the curled tongue. Sounds like a hollow, heavy 'sh'. |
+| **r** | /ɻ/ | Voiced retroflex approximant | Keep the tongue curled back like 'sh', but vibrate your vocal cords. It sounds like a mix between the English 'r' and the 's' in "measure". |
+| **ü / yu** | /y/ | Close front rounded vowel | Shape your lips into a tight, exaggerated "O" (like you are whistling), but push your tongue forward and try to say the English "EE". |
+
+
+## 1.2 Minimal Pair & Contrastive Diagnostic
+
+These are your "Conflict Zones." This is where your Anki ABX testing must be heavily focused, because your English-trained ears will initially tell you that Word A and Word B sound identical.
+
+### Conflict Zone 1: Aspiration vs. Voicing
+English speakers think Mandarin 'b', 'd', and 'g' are voiced. They are not. They are voiceless and unaspirated. The only difference between 'b' and 'p' in Mandarin is the puff of air.
+
+- **b vs. p:** 饱 (bǎo - full) vs. 跑 (pǎo - to run).  
+  *Delta:* 'p' gets a puff of air. 'b' gets zero air.
+- **d vs. t:** 岛 (dǎo - island) vs. 讨 (tǎo - to demand).  
+  *Delta:* 't' gets a puff of air. 'd' gets zero air.
+- **g vs. k:** 狗 (gǒu - dog) vs. 口 (kǒu - mouth).  
+  *Delta:* 'k' gets a puff of air. 'g' gets zero air.
+
+### Conflict Zone 2: The Flat Tongue vs. The Curled Tongue
+English mashes these two distinct rows into our standard "sh/ch/j" buckets. You must learn to hear the difference between the tongue resting behind the bottom teeth vs. curled back.
+
+- **x vs. sh:** 现 (xiàn - now) vs. 扇 (shàn - fan).  
+- **j vs. zh:** 鸡 (jī - chicken) vs. 知 (zhī - to know).  
+- **q vs. ch:** 气 (qì - air/gas) vs. 赤 (chì - red).
+
+### Conflict Zone 3: Lexical Tone (The High-Stakes Audit)
+Pitch determines the actual word. This is not optional intonation; it is the spelling of the word itself.
+
+- **Tone 1 (High & Flat):** 妈 (mā - mother).  
+  *Delta:* Pitch starts high and stays perfectly level, like singing a note.
+- **Tone 2 (Rising):** 麻 (má - hemp).  
+  *Delta:* Pitch starts medium and glides up sharply, like asking "What?" in English.
+- **Tone 3 (Falling-Rising):** 马 (mǎ - horse).  
+  *Delta:* Pitch drops low into the vocal fry, then bounces up slightly.
+- **Tone 4 (Falling):** 骂 (mà - to scold).  
+  *Delta:* Pitch starts high and drops sharply and abruptly, like saying "No!" as a firm command.
+
+## 1.3 Coarticulation & Sandhi (Contact Rules)
+
+| Rule Type | Trigger Condition | Visual Example (Text) | Acoustic Reality (IPA/Execution) |
+| :--- | :--- | :--- | :--- |
+| **Rule 1** | Silent final consonant + Next word starts with a vowel. | *les amis* (the friends) | **/lezami/** (The silent 's' wakes up and sounds like a 'z', attaching to the next word). |
+| **Rule 2** | Word ending in 'e' + Next word starts with a vowel. | *le arbre* -> *l'arbre* | **/laʁbʁ/** (The first vowel is dropped entirely to prevent a glottal stop). |
+| **Sandhi (Mandarin)** | Two 3rd tones in a row. | *nǐ hǎo* (hello) | **ní hǎo** (The first word changes to a 2nd tone [rising] to prevent vocal strain). |
+
+## 1.4 Prosody
+
+| Tone | Description | Execution |
+| :--- | :--- | :--- |
+| First | High flat | The dentist’s tone. Like Ahhh |
+| Second | Rising | The person upstairs or questioning tone. Like what? how? |
+| Third | Rising falling | The exasperated teacher’s tone. |
+| Fourth | Falling tone | The dog owner’s tone or commanding tone. Sit! Stop! No! |
+| Fifth | Neutral tone | ..... |
+
+---
+
+## 2.1 Language Typology (The "Lego vs. Clay" Audit)
+
+Mandarin is the ultimate "Lego" language. Words are immutable blocks; you change meaning by stacking them in different sequences or adding specific functional particles, rather than altering the words themselves.
+
+| Parameter | Classification | What this means for your learning load |
+|---|---|---|
+| **Morphology** | Strictly Isolating (Lego) | Zero conjugations, zero declensions, zero plural markers. The word for "eat" (吃 - chī) is exactly the same whether it is "I eat," "she ate," or "we will eat." |
+| **Head-Directionality** | Mixed (SVO Default) | The core sentence is Head-Initial (Subject-Verb-Object). However, noun phrases are strictly Head-Final: modifiers always come before the noun they describe. |
+| **Gender/Number/Case** | None | No masculine/feminine nouns. No subject/object spelling changes. Context and measure words do all the heavy lifting. |
+| **Pro-Drop** | Highly Contextual | If the subject is obvious from the context of the conversation, it is frequently dropped. "Eating?" is a complete and natural sentence. |
+
+---
+
+## 2.2 The Syntax
+Default word sequence order
+| Rule | Hanzi Example | Pinyin Example | Native1 Translation | Native2 Translation |
+| :--- | :--- | :--- | :--- | :--- |
+| **Time + Place + Subject + Verb + Object** | Subject-Verb-Object (SVO) | Subject-Object-Verb (SOV) | *Watashi wa ringo o taberu.* (I apple eat) |  |
+| **Place + Time + Subject + Verb + Object** | Subject-Verb-Object (SVO) | Subject-Object-Verb (SOV) | *Watashi wa ringo o taberu.* (I apple eat) |  |
+
+
+## 2.3 The Golden 13: "Unit Testing" (Standard Mandarin)
+
+These 13 translations reverse-engineer the "Operating System" of Mandarin. Pay close attention to the Logic Note, as this is where the syntactic rules are exposed.
+
+| ID | Concept (English) | Target Translation (Simplified / Pinyin) | Logic Note (The "Why") |
+|---|---|---|---|
+| **G1** | S-V-Adj (The apple is red.) | 苹果很红。<br>(Píngguǒ hěn hóng.) | No "To Be" verb. Mandarin uses the adverb 很 (hěn - very) to link nouns to adjectives. You do not use 是 (shì - to be) for simple descriptions. |
+| **G2** | Possession (John's book.) | 约翰的书。<br>(Yuēhàn de shū.) | The Associative Particle. Modifiers are linked to nouns using 的 (de). Formula: [Owner] + 的 + [Object]. |
+| **G3** | Past (Aspect) (I ate the apple.) | 我吃了那个苹果。<br>(Wǒ chī le nàge píngguǒ.) | Aspect, not Tense. The verb (chī) does not change. The particle 了 (le) is placed after the verb to indicate the action is completed. |
+| **G4** | Ongoing Action (I am eating.) | 我在吃饭。<br>(Wǒ zài chī fàn.) | The Progression Marker. 在 (zài) or 正在 (zhèngzài) is placed before the verb to indicate ongoing action, similar to the English "-ing". |
+| **G5** | Negation (I do not eat.) | 我不吃。<br>(Wǒ bù chī.) | Negative Placement. Negation always comes immediately before the verb. 不 (bù) is for present/future; 没 (méi) is for past/completion. |
+| **G6** | The Existential (There is a dog.) | 有一只狗。<br>(Yǒu yī zhī gǒu.) | The "Have" Rule. Mandarin uses the verb 有 (yǒu - to have) to express existence, rather than "there is/are". |
+| **G7** | Deictic Shift (This and That.) | 这个和那个。<br>(Zhège hé nàge.) | Demonstratives. 这 (zhè - this) and 那 (nà - that). They must be paired with a measure word (like 个 - ge) before a noun. |
+| **G8** | Yes/No Question (Do you eat?) | 你吃吗？<br>(Nǐ chī ma?) | The Question Particle. Word order does not flip. You simply state a fact and add the particle 吗 (ma) to the end to turn it into a question. |
+| **G9** | Wh- Question (What are you eating?) | 你在吃什么？<br>(Nǐ zài chī shénme?) | In-Situ Questions. Word order does not flip. The question word 什么 (shénme - what) simply replaces the object in the standard SVO order. |
+| **G10** | Location (I eat at home.) | 我在家里吃饭。<br>(Wǒ zài jiālǐ chī fàn.) | The Biggest Syntax Shift. Location must come before the action. Formula: [Subject] + [Location] + [Verb] + [Object]. |
+| **G11** | 7Time (I ate yesterday.) | 我昨天吃了。<br>(Wǒ zuótiān chī le.) | Time Placement. Time words must go immediately before or immediately after the Subject. They never go at the end of a sentence. |
+| **G12** | Dative / Transfer (I give him a book.) | 我给他一本书。<br>(Wǒ gěi tā yī běn shū.) | Coverbs. Mandarin uses 给 (gěi - to give) as a prepositional marker indicating the recipient. |
+| **G13** | Measure Words (Three books.) | 三本书。<br>(Sān běn shū.) | Mandarin's Quirk. You cannot attach a number directly to a noun. You must use a measure word bridge. 本 (běn) is the specific measure word for bound volumes. |
+
+| Category | English Concept | Target Language Connector | Structural Quirk / Rule |
+| :--- | :--- | :--- | :--- |
+| **Causal** | Because / Therefore | *Weil* (German) | "Kicks" the conjugated verb to the very end of the sentence. |
+| **Contrast** | But / However | *Pero* (Spanish) | Placed at the start of the contrasting clause. No structural change. |
+| **Relational** | In / On / At | *Ni* (Japanese) | It is a **post**position. It goes *after* the noun: *Tokyo ni* (In Tokyo). |
+| **Temporal** | Before / After | *Yǐqián* (Mandarin) | Placed *after* the event: [Event] + *yǐqián* (Before [Event]). |
+
+## 2.5 Script Anatomy
+
+### Ductus (Hanzi Mechanics)
+Script logic:
+How to practice:
+
+Strokes:
+Radicals:
+Composition Logic:
+
+---
+
+## 3.1 Tier 1: The "Function" Foundation (Cloze Exemption)
+
+These are the operators that hold your Mandarin sentences together. Do not try to picture these in your head. Put the target sentence on the front of your Anki card with a blank space, and put the required functional particle on the back.
+
+Here are the top 5 absolute highest-frequency functional "Glue" words you must lock down first:
+Targer 100
+
+| English Concept | Mandarin Glue (Hanzi / Pinyin) | The Cloze Flashcard Sentence (Front) | The Answer & Logic (Back) |
+|---|---|---|---|
+| **Possession / Association** | 的 (de) | 这是我 [...] 手机。<br>(This is my [...] phone.) | **的 (de)**<br>Links the owner (我 - me) to the object (手机 - phone). |
+| **Completed Action** | 了 (le) | 我昨天买 [...] 咖啡。<br>(I bought [...] coffee yesterday.) | **了 (le)**<br>Placed directly after the verb (买 - to buy) to indicate the action is finished. |
+| **Location Marker (At/In/On)** | 在 (zài) | 我 [...] 办公室工作。<br>(I work [...] the office.) | **在 (zài)**<br>Preposition that must precede the location (办公室 - office) before the verb occurs. |
+| **Degree / Linking Adjective** | 很 (hěn) | 这个苹果 [...] 大。<br>(This apple is [...] big.) | **很 (hěn)**<br>Means "very", but functions as the "to be" verb to link nouns to adjectives. |
+| **Connection (And)** | 和 (hé) | 我 [...] 你去。<br>(I [...] you go.) | **和 (hé)**<br>Strictly used to connect nouns/pronouns (I and you). Cannot be used to connect two full sentences. |
+
+## 3.2 Tier 2: Action Engine (Verbs & Collocations)
+Targer (100)
+| Target Verb | Avoid (Isolated) | Good (The Functional Chunk) | Why this works (The Context) |
+| :--- | :--- | :--- | :--- |
+| **To Go (qu)** | *Prendre* | *Prendre une décision* (To make a decision) | In French, you "take" a decision, you don't "make" it. Learning the chunk prevents L1 translation errors. |
+| **To eat (chi)** | *Hacer* | *Hace frío* (It is cold) | In Spanish, the weather "does" cold. The chunk bypasses the need to know why. |
+| **To make (zuo)** | *Dǎ* | *Dǎ dī* (To take a taxi) | "Dǎ" is a light verb with dozens of meanings. Chunks are the only way to lock down its specific usage. |
+
+## 3.3 Tier 3: The Core (Contextual Clusters)
+1. Choose a "Contextual Story" (e.g., The Kitchen Routine).
+2. Isolate 5-10 highly visual, concrete nouns related to that specific event.
+3. Create pure visual Anki cards. No English on the front, no English on the back.
+
+### Contextual Story Maps
+
+**The Morning**
+| Story Theme | The Core Cluster (Target Language) | The Visual SRS Rule |
+| :--- | :--- | :--- |
+| **The Morning** | Bed, Alarm, Coffee, Shower, Toothbrush | **Front:** Picture of a steaming mug. **Back:** *Café* + Native Audio. |
+| **The Commute** | Keys, Door, Car, Traffic, Office | **Front:** Picture of a steering wheel. **Back:** *Coche* + Native Audio. |
+| **The Weather** | Sun, Rain, Umbrella, Coat | **Front:** Picture of a yellow umbrella. **Back:** *Paraguas* + Native Audio. |
+
+The Weather
+| Story Theme | The Core Cluster (Target Language) | The Visual SRS Rule |
+| :--- | :--- | :--- |
+| **The Morning** | Bed, Alarm, Coffee, Shower, Toothbrush | **Front:** Picture of a steaming mug. **Back:** *Café* + Native Audio. |
+| **The Commute** | Keys, Door, Car, Traffic, Office | **Front:** Picture of a steering wheel. **Back:** *Coche* + Native Audio. |
+| **The Weather** | Sun, Rain, Umbrella, Coat | **Front:** Picture of a yellow umbrella. **Back:** *Paraguas* + Native Audio. |
+
+## 3.4 Tier 4: The Personal Identity Layer (The "Niche" 75)
+
+This is where you abandon universal frequency lists and build the vocabulary required to describe your specific daily reality. To avoid semantic interference, you will group these not by textbook categories, but by the contexts in which you actually use them.
+
+Here is the template for building your Niche 75.
+
+### Subset A: The Professional Layer
+This captures what you do for 8 hours a day. Translating your job title is not enough; you need the verbs and nouns that make up your daily tasks.
+
+| Your Reality (English) | The Action Chunk (Hanzi / Pinyin) | Why you need this specific chunk |
+|---|---|---|
+| "I have a meeting." | 开会 (kāi huì) | In Mandarin, you don't "have" a meeting, you "open" (开) a meeting. |
+| "I need to send an email." | 发邮件 (fā yóujiàn) | You must pair the specific verb for digital dispatch (发) with email (邮件). |
+| "Let's solve this problem." | 解决问题 (jiějué wèntí) | The universal chunk for troubleshooting, debugging, or handling logistics. |
+| **"I manage the product."** | 管理产品 *(guǎnlǐ chǎnpǐn)* | **管理** is the standard verb for managing systems, teams, or products. |
+| **"I plan the programme/project."** | 规划项目 *(guīhuà xiàngmù)* | **项目 (xiàngmù)** covers projects and programmes. **规划** is to strategically plan or map out. |
+| **"I am studying a course."** | 上课 / 学习 *(shàng kè / xuéxí)* | **上课** literally means "to attend class." Use this for active professional development modules. |
+| **"I am reading a newsletter."** | 看简报 *(kàn jiǎnbào)* | Mandarin uses the verb **看 (kàn - to look/watch)** for reading screens, books, and newsletters. |
+
+
+### Subset B: The Lifestyle & Hobby Layer
+This captures how you spend your evenings and weekends, allowing you to actually connect with native speakers over shared interests.
+
+| Your Reality (English) | The Action Chunk (Hanzi / Pinyin) | Why you need this specific chunk |
+|---|---|---|
+| "I play video games." | 打游戏 (dǎ yóuxì) | The verb "to play" changes based on the object. For digital games, you use the "hit/strike" verb (打). |
+| "I play the piano." | 弹钢琴 (tán gāngqín) | For stringed or keyed instruments, you cannot use generic "play"; you must use the verb for "pluck/press" (弹). |
+| "I work out/lift weights." | 健身 (jiànshēn) | Literally "build body." Much more natural for going to the gym than generic "exercise." |
+| **"I hit the gym."** | 健身 *(jiànshēn)* | Literally "to build the body." The standard chunk for lifting weights or general gym workouts. |
+| **"I go rock climbing."** | 攀岩 *(pānyán)* | A dedicated noun-verb hybrid meaning "to climb rocks." |
+| **"I play tennis."** | 打网球 *(dǎ wǎngqiú)* | Any sport played with the hands or a racket uses the verb **打 (dǎ - to hit/strike)**. |
+| **"I go running."** | 跑步 *(pǎobù)* | Literally "to run steps." This is an inseparable chunk; you cannot just say 跑 for the hobby of jogging. |
+
+#### Subset C: The Morning & Childcare Loop
+Domestic routines require highly specific verb pairings. Notice how the verbs shift depending on who is receiving the action.
+
+| English Reality | The Action Chunk (Hanzi / Pinyin) | Logic Note & Context |
+| :--- | :--- | :--- |
+| **"I wake up."** | 起床 *(qǐ chuáng)* | Literally "to rise from bed." Used only for yourself. |
+| **"I wake the toddler up."** | 叫醒孩子 *(jiào xǐng háizi)* | **叫醒** is the causative verb "to call awake." **孩子** is the universal term for child/toddler. |
+| **"I bathe them/brush teeth."** | 洗澡 / 刷牙 *(xǐ zǎo / shuā yá)* | To say you bathe the child, use the coverb 给 (gěi): **给孩子洗澡** (give child bath). |
+| **"I make breakfast/lunch."** | 做早饭 / 做午饭 *(zuò zǎofàn / zuò wǔfàn)* | **做 (zuò)** is the universal verb for making or cooking meals. |
+| **"I listen to podcasts/music."** | 听播客 / 听音乐 *(tīng bōkè / tīng yīnyuè)* | **听 (tīng)** is the dedicated verb for auditory consumption. |
+| **"I chat with my partner."** | 跟伴侣聊天 *(gēn bànlǚ liáotiān)* | Formula: 跟 (with) + partner + 聊天 (chat). |
+
+#### Subset D: Procurement & Dining (The Weekly Errands)
+This covers the logistics of feeding a household, differentiating between generic supermarkets and fresh markets.
+
+| English Reality | The Action Chunk (Hanzi / Pinyin) | Logic Note & Context |
+| :--- | :--- | :--- |
+| **"I go grocery shopping."** | 买菜 *(mǎi cài)* | Literally "buy vegetables," but universally used for routine grocery shopping, including meat and other foodstuffs. |
+| **"I go to the market."** | 去菜市场 *(qù càishìchǎng)* | **菜市场** is the traditional fresh/wet market, distinct from a standard supermarket (超市 - chāoshì). |
+| **"Buy meat, chicken, fish, eggs."** | 买肉，鸡肉，鱼，鸡蛋 *(mǎi ròu, jīròu, yú, jīdàn)* | **肉 (ròu)** often defaults to pork in context; specify **鸡肉** for chicken. |
+| **"I order takeout."** | 点外卖 *(diǎn wàimài)* | **点 (diǎn)** is "to order/select," paired with **外卖** (takeout). |
+| **"I eat out."** | 去外面吃 *(qù wàimiàn chī)* | Literally "go outside to eat." A very natural everyday phrase. |
+
+## 3.5 The "Lego" Filler Table (Classifiers/Measures)
+**Suggested Sources:** Language-specific grammar guides (e.g., AllSet Learning for Mandarin Chinese Grammar).
+
+### The Classifier Blueprint
+| Target Category | Classifier/Measure Word | Used For (Visual Shape/Concept) | Functional Chunk Example |
+| :--- | :--- | :--- | :--- |
+| **Flat Objects** | *Zhāng* (Mandarin) | Paper, tables, tickets, maps. | *Yī zhāng piào* (One ticket) |
+| **Long/Thin Objects** | *Tiáo* (Mandarin) | Rivers, roads, snakes, pants. | *Yī tiáo lù* (One road) |
+| **Bound Volumes** | *Satsu* (Japanese) | Books, magazines, dictionaries. | *Hon wo is-satsu* (One book) |
+
+---
+## 4.1 Input Strategy
+Podcasts
+Music
+Books
+
+### Topic/Theme: Cooking
+| Sources | Repeated High Frequency words |
+| :--- | :--- |
+| Song: Shihou - Su Yuying | hand (shou), fan(), |
+
+
+## 4.2 The Substitution Protocol (Mandarin Execution)
+
+### Skeleton 1: The Daily Routine (Time Placement)
+
+The OS Rule: In Mandarin, Time must come before the action. (Subject + Time + Action).
+
+| Native "Skeleton" | Your Custom Substitution (Phase 3 Lexis) | The Final Output (Hanzi / Pinyin / English) |
+|---|---|---|
+| 我早上喝咖啡。<br>(I drink coffee in the morning.) | Time Swap: 早上 (morning) → 每天 (every day)<br>Action Swap: 喝咖啡 → 听播客 (listen to podcasts) | 我每天听播客。<br>(Wǒ měitiān tīng bōkè.)<br>I listen to podcasts every day. |
+| 我晚上看书。<br>(I read books in the evening.) | Time Swap: 晚上 (evening) → 早上 (morning)<br>Action Swap: 看书 → 做早饭 (make breakfast) | 我早上做早饭。<br>(Wǒ zǎoshang zuò zǎofàn.)<br>I make breakfast in the morning. |
+
+---
+
+### Skeleton 2: The Errand Engine (Location Placement)
+
+The OS Rule: The location must come before the verb. You establish where you are first, then what you do there. (Subject + Time + 在 [Location] + Action).
+
+| Native "Skeleton" | Your Custom Substitution (Phase 3 Lexis) | The Final Output (Hanzi / Pinyin / English) |
+|---|---|---|
+| 我在学校学习。<br>(I study at school.) | Location Swap: 学校 (school) → 菜市场 (fresh market)<br>Action Swap: 学习 → 买肉 (buy meat) | 我在菜市场买肉。<br>(Wǒ zài càishìchǎng mǎi ròu.)<br>I buy meat at the fresh market. |
+| 他在公园跑步。<br>(He runs in the park.) | Subject Swap: 他 → 我 (I)<br>Location Swap: 公园 (park) → 健身房 (gym)<br>Action Swap: 跑步 → 健身 (work out) | 我在健身房健身。<br>(Wǒ zài jiànshēnfáng jiànshēn.)<br>I work out at the gym. |
+
+---
+
+### Skeleton 3: The Sequential Workflow (First X, Then Y)
+
+The OS Rule: To connect a sequence of daily events or work tasks, Mandarin uses the highly frequent pattern 先 (xiān - first) ... 然后 (ránhòu - then/afterwards).
+
+| Native "Skeleton" | Your Custom Substitution (Phase 3 Lexis) | The Final Output (Hanzi / Pinyin / English) |
+|---|---|---|
+| 我先吃饭，然后睡觉。<br>(I eat first, then sleep.) | Action 1 Swap: 吃饭 → 叫醒孩子 (wake the toddler up)<br>Action 2 Swap: 睡觉 → 给孩子洗澡 (give them a bath) | 我先叫醒孩子，然后给孩子洗澡。<br>(Wǒ xiān jiào xǐng háizi, ránhòu gěi háizi xǐ zǎo.)<br>First I wake the toddler up, then I bathe them. |
+| 我先开会，然后写报告。<br>(I have a meeting first, then write a report.) | Action 1 Swap: 开会 (meeting) stays the same.<br>Action 2 Swap: 写报告 → 规划项目 (plan the programme) | 我先开会，然后规划项目。<br>(Wǒ xiān kāihuì, ránhòu guīhuà xiàngmù.)<br>First I have a meeting, then I plan the programme. |
+
+---
+
+### Skeleton 4: The Weekend/Social Hub (Accompaniment)
+
+The OS Rule: Who you do something with comes before the action. (Subject + 跟 [Person] + Action).
+
+| Native "Skeleton" | Your Custom Substitution (Phase 3 Lexis) | The Final Output (Hanzi / Pinyin / English) |
+|---|---|---|
+| 我跟朋友看电影。<br>(I watch movies with friends.) | Person Swap: 朋友 (friends) → 伴侣 (partner)<br>Action Swap: 看电影 → 打网球 (play tennis) | 我跟伴侣打网球。<br>(Wǒ gēn bànlǚ dǎ wǎngqiú.)<br>I play tennis with my partner. |
+| 我跟同事吃午饭。<br>(I eat lunch with colleagues.) | Person Swap: 同事 (colleagues) → 伴侣 (partner)<br>Action Swap: 吃午饭 → 去外面吃 (eat out) | 我跟伴侣去外面吃。<br>(Wǒ gēn bànlǚ qù wàimiàn chī.)<br>I eat out with my partner. |
+
+---
+
+## 5. The AI Micro-Feedback Suite (Prompt Templates)
+
+To execute the 5% spot-check without triggering the Affective Filter, use these exact prompts in ChatGPT, Claude, or Gemini.
+
+### Prompt A: The Syntax Stress-Test (Pillar 2)
+> "Act as a strict structural linguist. I am testing the default word order and syntax rules for Mandarin. Review the following sentence: '[Insert Sentence]'. Do not rewrite the sentence to make it sound more poetic or native. Only correct it if I have broken a fundamental syntactical rule (e.g., placing the verb in the wrong position, or using the wrong negation marker). Explain the structural error in one sentence."
+
+### Prompt B: The Collocation Check (Pillar 3)
+> "Act as a native speaker of Mandarin. I am trying to express the concept of '[Insert English Chunk/Concept, e.g., making a decision]'. I have translated this as '[Insert Target Language Chunk]'. Is this the standard, highest-frequency verb collocation used in everyday speech? If not, what is the exact 2-3 word chunk a native speaker would actually use?"
+
+### Prompt C: The Substitution Auditor (Pillar 4)
+> "I am doing a substitution drill in Mandarin. The native skeleton sentence is: '[Insert Native Sentence]'. I have swapped out the nouns and verbs to fit my personal vocabulary. My new sentence is: '[Insert Your Sentence]'. Did my vocabulary swap break any hidden grammar rules, such as gender agreement, case endings, or required prepositions? Limit your feedback to a simple 'Yes, it works' or a specific identification of the broken rule."
+
+
+
+

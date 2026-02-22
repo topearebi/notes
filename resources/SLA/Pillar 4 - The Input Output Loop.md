@@ -1,4 +1,4 @@
-[[resources/SLA/Pillar 1 - Phonetic Foundation]] [[resources/SLA/Pillar 2 - Structural Skeleton]][[resources/SLA/Pillar 3 - The Vocabulary Engine]] 
+[[resources/SLA/Pillar 1 - Phonetic Foundation]] [[resources/SLA/Pillar 2 - Structural Skeleton]][[resources/SLA/Pillar 3 - The Vocabulary Engine]] [[resources/SLA/tools]] [[resources/SLA/Scheduling]] 
 ## 4.1 The Input Strategy (Narrow Input)
 **Order of Implementation:** 1. Select a highly specific, niche topic that interests you (e.g., "Making Pour-Over Coffee" or "Tech Startup News"). 
 2. Gather 3 to 5 different native resources (articles, YouTube videos, podcasts) exclusively on this exact topic.
