@@ -17,6 +17,17 @@ ${table.concat(query[[
 ]], "\n")}
 
 ---
+## Shopping List
+- [x] 3 pack Sleeveless vest white (7)
+- [x] 3 pack Sleeveless vest black (7)
+- [x] Long sleeved sleep shirts (4) swap
+- [x] Performance pants (16)
+- [ ] [M&S easy iron long sleeve shirts white 3 pack](https://www.marksandspencer.com/3-pack-regular-fit-easy-iron-shirts/p/clp60287451#intid=pid_pg1pip48g2r2c1) (49)
+- [ ] [M&S easy iron long sleeve shirts black 3 pack](https://www.marksandspencer.com/3pk-regular-fit-long-sleeve-shirts/p/clp60576720#intid=pid_pg1pip48g2r11c1) (49)
+- [ ] Bag duffel
+- [ ] Call the council for a disposal
+- [ ] CDH governance check
+---
 
 ## 📥 Inbox (Needs Filing)
 ${table.concat(query[[

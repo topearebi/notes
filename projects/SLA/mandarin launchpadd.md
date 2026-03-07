@@ -39,32 +39,30 @@ English mashes these two distinct rows into our standard "sh/ch/j" buckets. You 
 ### Conflict Zone 3: Lexical Tone (The High-Stakes Audit)
 Pitch determines the actual word. This is not optional intonation; it is the spelling of the word itself.
 
-- **Tone 1 (High & Flat):** 妈 (mā - mother).  
+- **Tone 1 (High & Flat. The dentist's tone):** 妈 (mā - mother).  
   *Delta:* Pitch starts high and stays perfectly level, like singing a note.
-- **Tone 2 (Rising):** 麻 (má - hemp).  
+- **Tone 2 (Rising. The person upstairs tone):** 麻 (má - hemp).  
   *Delta:* Pitch starts medium and glides up sharply, like asking "What?" in English.
-- **Tone 3 (Falling-Rising):** 马 (mǎ - horse).  
+- **Tone 3 (Falling-Rising. The exasperated teacher's tone.):** 马 (mǎ - horse).  
   *Delta:* Pitch drops low into the vocal fry, then bounces up slightly.
-- **Tone 4 (Falling):** 骂 (mà - to scold).  
+- **Tone 4 (Falling. The dog owner's tone):** 骂 (mà - to scold).  
   *Delta:* Pitch starts high and drops sharply and abruptly, like saying "No!" as a firm command.
 
 ## 1.3 Coarticulation & Sandhi (Contact Rules)
 
-| Rule Type | Trigger Condition | Visual Example (Text) | Acoustic Reality (IPA/Execution) |
-| :--- | :--- | :--- | :--- |
-| **Rule 1** | Silent final consonant + Next word starts with a vowel. | *les amis* (the friends) | **/lezami/** (The silent 's' wakes up and sounds like a 'z', attaching to the next word). |
-| **Rule 2** | Word ending in 'e' + Next word starts with a vowel. | *le arbre* -> *l'arbre* | **/laʁbʁ/** (The first vowel is dropped entirely to prevent a glottal stop). |
-| **Sandhi (Mandarin)** | Two 3rd tones in a row. | *nǐ hǎo* (hello) | **ní hǎo** (The first word changes to a 2nd tone [rising] to prevent vocal strain). |
-
-## 1.4 Prosody
-
-| Tone | Description | Execution |
+| Trigger Condition | Visual Example (Text) | Acoustic Reality (IPA/Execution) |
 | :--- | :--- | :--- |
-| First | High flat | The dentist’s tone. Like Ahhh |
-| Second | Rising | The person upstairs or questioning tone. Like what? how? |
-| Third | Rising falling | The exasperated teacher’s tone. |
-| Fourth | Falling tone | The dog owner’s tone or commanding tone. Sit! Stop! No! |
-| Fifth | Neutral tone | ..... |
+| **3rd tone + 3rd tone** | *les amis* (the friends) | **/lezami/** (The silent 's' wakes up and sounds like a 'z', attaching to the next word). |
+| **Multiple third tones in a row.** | *le arbre* -> *l'arbre* | **/laʁbʁ/** (The first vowel is dropped entirely to prevent a glottal stop). |
+| **Two 3rd tones in a row.** | *nǐ hǎo* (hello) | **ní hǎo** (The first word changes to a 2nd tone [rising] to prevent vocal strain). |
+| **1st/2nd/4th + 3rd tone.** | *nǐ hǎo* (hello) | **ní hǎo** (The first word changes to a 2nd tone [rising] to prevent vocal strain). |
+| **bu + 4th tone.** | *nǐ hǎo* (hello) | **ní hǎo** (The first word changes to a 2nd tone [rising] to prevent vocal strain). |
+| **yi + 4th tone** | *nǐ hǎo* (hello) | **ní hǎo** (The first word changes to a 2nd tone [rising] to prevent vocal strain). |
+| **yi + 1st/2nd/3rd tone** | *nǐ hǎo* (hello) | **ní hǎo** (The first word changes to a 2nd tone [rising] to prevent vocal strain). |
+| **yi + 4th tone** | *nǐ hǎo* (hello) | **ní hǎo** (The first word changes to a 2nd tone [rising] to prevent vocal strain). |
+| **yi + 4th tone** | *nǐ hǎo* (hello) | **ní hǎo** (The first word changes to a 2nd tone [rising] to prevent vocal strain). |
+
+**Practice**: https://www.dong-chinese.com/learn/sounds/pinyin
 
 ---
 
@@ -82,39 +80,53 @@ Mandarin is the ultimate "Lego" language. Words are immutable blocks; you change
 ---
 
 ## 2.2 The Syntax
-Default word sequence order
-| Rule | Hanzi Example | Pinyin Example | Native1 Translation | Native2 Translation |
-| :--- | :--- | :--- | :--- | :--- |
-| **Time + Place + Subject + Verb + Object** | Subject-Verb-Object (SVO) | Subject-Object-Verb (SOV) | *Watashi wa ringo o taberu.* (I apple eat) |  |
-| **Place + Time + Subject + Verb + Object** | Subject-Verb-Object (SVO) | Subject-Object-Verb (SOV) | *Watashi wa ringo o taberu.* (I apple eat) |  |
+
+Chinese Syntax: The Literal Logical Map
+| Rule | Hanzi Example | Pinyin Example | Raw English (Literal) | Standard English | Yoruba Translation |
+|---|---|---|---|---|---|
+| Subject + Verb + Object | 龙大喝啤酒。 | Lóngdà hē píjiǔ. | Longda drink beer. | Longda drinks beer. | Longda n mu ọtí-bià. |
+| Subject + Time + Place + Verb + Object | 妈妈早上在厨房做包子。 | Māma zǎoshang zài chúfáng zuò bāozi. | Mom morning at kitchen make bun. | Mom makes buns in the kitchen in the morning. | Màá n dín bāozi nínú ilé-ìdána ní òwúrọ̀. |
+| Subject + Verb + Complement + Object | 我看清楚了那个字。 | Wǒ kàn qīngchu le nàge zì. | I look-clear [past] that character. | I saw that character clearly. | Mo rí lẹ́tà yẹn kedere. |
+| Subject + Place + Manner + Verb | 丽丽在银行静静地坐。 | Lìlì zài yínháng jìngjìng de zuò. | Lili at bank quiet-ly sit. | Lili sits quietly in the bank. | Lili n jòkó jẹ́jẹ́ nínú banki. |
+| Subject + Time + Place + Auxiliary + Verb + Object | 弟弟明天在学校想练汉字。 | Dìdi míngtiān zài xuéxiào xiǎng liàn Hànzì. | Younger brother tomorrow at school want practice Hanzi. | My brother wants to practice Hanzi at school tomorrow. | Àbúrò mi fẹ́ ṣe ìdánrawó lẹ́tà Chinese ní ilé-ìwé ní ọ̀la. |
+| Subject + Auxiliary + Object (Benefactive) + Verb + Object | 他能给爷爷买西瓜。 | Tā néng gěi yéye mǎi xīguā. | He can for grandpa buy watermelon. | He can buy a watermelon for grandpa. | Ó lè ra apápá fún Bàbá-àgbà. |
+| Subject + Time + Manner + Place + Negation + Auxiliary + Verb + Complement + Object | 龙大今天慢慢地在公司没能写完文件。 | Lóngdà jīntiān mànmàn de zài gōngsī méi néng xiě wán wénjiàn. | Longda today slow-ly at company not can write-finish document. | Longda could not finish the document slowly at the office today. | Longda kò le kọ ìwé-iṣẹ́ yẹn tán fẹ́ẹ́rẹ́fẹ́ ní ilé-iṣẹ́ lónìí. |
+| Time + Subject + Manner + Place + Verb + Object | 今天晚上龙大高兴地在公园见丽丽。 | Jīntiān wǎnshang Lóngdà gāoxìng de zài gōngyuán jiàn Lìlì. | Today evening Longda happy-ly at park see Lili. | Tonight, Longda happily meets Lili in the park. | Ní alẹ́ lónìí, Longda fi ayọ̀ pàdé Lili ní ọgbà-iṣeré. |
 
 
 ## 2.3 The Golden 13: "Unit Testing" (Standard Mandarin)
 
 These 13 translations reverse-engineer the "Operating System" of Mandarin. Pay close attention to the Logic Note, as this is where the syntactic rules are exposed.
 
-| ID | Concept (English) | Target Translation (Simplified / Pinyin) | Logic Note (The "Why") |
-|---|---|---|---|
-| **G1** | S-V-Adj (The apple is red.) | 苹果很红。<br>(Píngguǒ hěn hóng.) | No "To Be" verb. Mandarin uses the adverb 很 (hěn - very) to link nouns to adjectives. You do not use 是 (shì - to be) for simple descriptions. |
-| **G2** | Possession (John's book.) | 约翰的书。<br>(Yuēhàn de shū.) | The Associative Particle. Modifiers are linked to nouns using 的 (de). Formula: [Owner] + 的 + [Object]. |
-| **G3** | Past (Aspect) (I ate the apple.) | 我吃了那个苹果。<br>(Wǒ chī le nàge píngguǒ.) | Aspect, not Tense. The verb (chī) does not change. The particle 了 (le) is placed after the verb to indicate the action is completed. |
-| **G4** | Ongoing Action (I am eating.) | 我在吃饭。<br>(Wǒ zài chī fàn.) | The Progression Marker. 在 (zài) or 正在 (zhèngzài) is placed before the verb to indicate ongoing action, similar to the English "-ing". |
-| **G5** | Negation (I do not eat.) | 我不吃。<br>(Wǒ bù chī.) | Negative Placement. Negation always comes immediately before the verb. 不 (bù) is for present/future; 没 (méi) is for past/completion. |
-| **G6** | The Existential (There is a dog.) | 有一只狗。<br>(Yǒu yī zhī gǒu.) | The "Have" Rule. Mandarin uses the verb 有 (yǒu - to have) to express existence, rather than "there is/are". |
-| **G7** | Deictic Shift (This and That.) | 这个和那个。<br>(Zhège hé nàge.) | Demonstratives. 这 (zhè - this) and 那 (nà - that). They must be paired with a measure word (like 个 - ge) before a noun. |
-| **G8** | Yes/No Question (Do you eat?) | 你吃吗？<br>(Nǐ chī ma?) | The Question Particle. Word order does not flip. You simply state a fact and add the particle 吗 (ma) to the end to turn it into a question. |
-| **G9** | Wh- Question (What are you eating?) | 你在吃什么？<br>(Nǐ zài chī shénme?) | In-Situ Questions. Word order does not flip. The question word 什么 (shénme - what) simply replaces the object in the standard SVO order. |
-| **G10** | Location (I eat at home.) | 我在家里吃饭。<br>(Wǒ zài jiālǐ chī fàn.) | The Biggest Syntax Shift. Location must come before the action. Formula: [Subject] + [Location] + [Verb] + [Object]. |
-| **G11** | 7Time (I ate yesterday.) | 我昨天吃了。<br>(Wǒ zuótiān chī le.) | Time Placement. Time words must go immediately before or immediately after the Subject. They never go at the end of a sentence. |
-| **G12** | Dative / Transfer (I give him a book.) | 我给他一本书。<br>(Wǒ gěi tā yī běn shū.) | Coverbs. Mandarin uses 给 (gěi - to give) as a prepositional marker indicating the recipient. |
-| **G13** | Measure Words (Three books.) | 三本书。<br>(Sān běn shū.) | Mandarin's Quirk. You cannot attach a number directly to a noun. You must use a measure word bridge. 本 (běn) is the specific measure word for bound volumes. |
-
-| Category | English Concept | Target Language Connector | Structural Quirk / Rule |
-| :--- | :--- | :--- | :--- |
-| **Causal** | Because / Therefore | *Weil* (German) | "Kicks" the conjugated verb to the very end of the sentence. |
-| **Contrast** | But / However | *Pero* (Spanish) | Placed at the start of the contrasting clause. No structural change. |
-| **Relational** | In / On / At | *Ni* (Japanese) | It is a **post**position. It goes *after* the noun: *Tokyo ni* (In Tokyo). |
-| **Temporal** | Before / After | *Yǐqián* (Mandarin) | Placed *after* the event: [Event] + *yǐqián* (Before [Event]). |
+Mandarin Grammar Foundation: Logic & Rules
+| ID | Concept (English) | Target Translation (Simplified / Pinyin) | Logic Note (The "Why") | Yoruba Translation |
+|---|---|---|---|---|
+| G1 | S-V-Adj (The apple is red.) | 苹果很红。
+(Píngguǒ hěn hóng.) | Adjectival Link: Mandarin uses 很 (hěn) to link nouns to adjectives. You do not use 是 (shì - to be) for descriptions. | Apple yẹn pupa. |
+| G2 | Possession (John's book.) | 约翰的书。
+(Yuēhàn de shū.) | Associative Particle: 的 (de) links modifiers to nouns. Formula: [Owner] + 的 + [Object]. | Ìwé John. |
+| G3 | Past Aspect (I ate the apple.) | 我吃了那个苹果。
+(Wǒ chī le nàge píngguǒ.) | Completion Marker: Mandarin uses aspect, not tense. 了 (le) after the verb shows the action is finished. | Mo ti jẹ apple yẹn. |
+| G4 | Ongoing Action (I am eating.) | 我在吃饭。
+(Wǒ zài chī fàn.) | Progression Marker: 在 (zài) before the verb functions like the English "-ing" or Yoruba "n". | Mo ń jẹun. |
+| G5 | Negation (I do not eat.) | 我不吃。
+(Wǒ bù chī.) | Negative Placement: 不 (bù) is for current/future habits. 没 (méi) is used to negate completion (past). | Mi ò kì í jẹun. |
+| G6 | Existential (There is a dog.) | 有一只狗。
+(Yǒu yī zhī gǒu.) | Existence via "Have": Mandarin uses 有 (yǒu - to have) to express that something exists in a space. | Ajá kan wà. |
+| G7 | Deictic Shift (This and That.) | 这个和那个。
+(Zhège hé nàge.) | Demonstratives: 这 (zhè) and 那 (nà) must always be paired with a Measure Word (个) before the noun. | Èyí àti ìyẹn. |
+| G8 | Yes/No Question (Do you eat?) | 你吃吗？
+(Nǐ chī ma?) | Question Particle: Word order stays the same as a statement. Adding 吗 (ma) flips the logic to a question. | Ṣé o ń jẹun? |
+| **G9** | Wh- Question (What are you eating?) | 你在吃什么？
+(Nǐ zài chī shénme?) | In-Situ Questions: Word order does not flip. The question word replaces the missing information. |
+| **G10** | Location (I eat at home.) | 我在家里吃饭。
+(Wǒ zài jiālǐ chī fàn.) | Spatial Framework: You must establish the "Stage" (Location) before the action occurs. | Mo ń jẹun ní ilé. |
+| G11 | Time (I ate yesterday.) | 我昨天吃了。
+(Wǒ zuótiān chī le.) | Temporal Framing: Time words frame the scene. They go before or after the Subject, never at the end. | Mo jẹun ní àná. |
+| G12 | Dative / Transfer (I give him a book.) | 我给他一本书。
+(Wǒ gěi tā yī běn shū.) | Coverbs: 给 (gěi) acts as a marker for the recipient, similar to "fún" in Yoruba. | Mo fún un ní ìwé kan. |
+| G13 | Measure Words (Three books.) | 三本书。
+(Sān běn shū.) | Categorization: Numbers cannot touch nouns directly. You must use a "Bridge" (Measure Word) like 本 (běn). | Ìwé mẹ́ta. |
 
 ## 2.5 Script Anatomy
 
@@ -132,16 +144,35 @@ Composition Logic:
 
 These are the operators that hold your Mandarin sentences together. Do not try to picture these in your head. Put the target sentence on the front of your Anki card with a blank space, and put the required functional particle on the back.
 
-Here are the top 5 absolute highest-frequency functional "Glue" words you must lock down first:
-Targer 100
-
+Mandarin Function Foundation (Cloze Flashcards)
 | English Concept | Mandarin Glue (Hanzi / Pinyin) | The Cloze Flashcard Sentence (Front) | The Answer & Logic (Back) |
 |---|---|---|---|
-| **Possession / Association** | 的 (de) | 这是我 [...] 手机。<br>(This is my [...] phone.) | **的 (de)**<br>Links the owner (我 - me) to the object (手机 - phone). |
-| **Completed Action** | 了 (le) | 我昨天买 [...] 咖啡。<br>(I bought [...] coffee yesterday.) | **了 (le)**<br>Placed directly after the verb (买 - to buy) to indicate the action is finished. |
-| **Location Marker (At/In/On)** | 在 (zài) | 我 [...] 办公室工作。<br>(I work [...] the office.) | **在 (zài)**<br>Preposition that must precede the location (办公室 - office) before the verb occurs. |
-| **Degree / Linking Adjective** | 很 (hěn) | 这个苹果 [...] 大。<br>(This apple is [...] big.) | **很 (hěn)**<br>Means "very", but functions as the "to be" verb to link nouns to adjectives. |
-| **Connection (And)** | 和 (hé) | 我 [...] 你去。<br>(I [...] you go.) | **和 (hé)**<br>Strictly used to connect nouns/pronouns (I and you). Cannot be used to connect two full sentences. |
+| Completion / Change | 了 (le) | 我吃 [...] 那个坏鸡蛋。(I ate [...] that bad egg.) | 了 (le) Placed after the verb to indicate the action is finished (Aspect marker). |
+| Yes/No Question | 吗 (ma) | 那个售货员是你的朋友 [...] ？(Is that shop assistant your friend [...] ?) | 吗 (ma) The question particle. It turns a statement into a yes/no question without changing word order. |
+| Location / Progress | 在 (zài) | 爸爸妈妈 [...] 厨房里做饭。
+(Dad and Mom [...] the kitchen cooking.) | 在 (zài)
+Indicates location (at) or ongoing action (-ing). It sets the stage for the verb. |
+| Suggestion / Softening | 吧 (ba) | 我们一起去超市买水果 [...] 。
+(Let's go to the supermarket together to buy fruit [...] .) | 吧 (ba)
+A particle used for suggestions ("let's") or to soften the tone of a sentence. |
+| Manner (Adverbial) | 地 (de) | 奶奶很高兴 [...] 笑。
+(Grandma happily [...] laughed.) | 地 (de)
+The "ly" marker. It connects an adjective (高兴) to a verb (笑) to show how the action is done. |
+| Inclusion (Also) | 也 (yě) | 龙大不喜欢大卫，丽丽 [...] 不喜欢他。
+(Longda doesn't like David; Lili [...] doesn't like him.) | 也 (yě)
+Means "also" or "too." It must be placed before the verb or negation. |
+| Totalizing (All/Both) | 都 (dōu) | 我们 [...] 是中国人。
+(We [...] are Chinese.) | 都 (dōu)
+Means "all" or "both." It refers back to the group mentioned (我们) and comes before the verb. |
+| Conjunction (And) | 和 (hé) | 我想买苹果 [...] 芒果。
+(I want to buy apples [...] mangoes.) | 和 (hé)
+Used to link two nouns or noun phrases. It cannot be used to link two sentences. |
+| Result / Arrival | 到 (dào) | 龙大看 [...] 了他的情敌。
+(Longda see [...] [finished] his love rival.) | 到 (dào)
+A resultative complement. It shows that the action of "looking" was successful (perceived). |
+| Comparison | 比 (bǐ) | 大卫 [...] 龙大高。
+(David [is] [...] Longda tall.) | 比 (bǐ)
+The comparison marker. Formula: [A] + 比 + [B] + [Adjective]. |
 
 ## 3.2 Tier 2: Action Engine (Verbs & Collocations)
 Targer (100)
