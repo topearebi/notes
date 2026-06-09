@@ -7,9 +7,9 @@ config.set("plugs", {
 })
 
 -- 2. GIT CONFIGURATION
-config.set("git", {
-  autoSync = true,
-  syncInterval = 300  -- Sync every 5 minutes (in seconds)
-})
+-- config.set("git", {
+--   autoSync = true,
+--   syncInterval = 300  -- Sync every 5 minutes (in seconds)
+-- })
 
 ```
