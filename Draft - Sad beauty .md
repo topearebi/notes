@@ -13,7 +13,13 @@ To be so pretty
 
 The worst nightmares
 Are often the most terrifying
-Is beauty noy
+Is beauty not
+A terrific thing to possess
+So much so
+That it is terrifying
+What a nightmare it is
+to possess this thing
+called beauty
 ---
 
 ## ✍️ Content
