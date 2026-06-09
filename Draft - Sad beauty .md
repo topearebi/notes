@@ -11,6 +11,9 @@ You are sad because you are so beautiful
 How terrible it is for you
 To be so pretty 
 
+The worst nightmares
+Are often the most terrifying
+Is beauty noy
 ---
 
 ## ✍️ Content
