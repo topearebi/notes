@@ -1,0 +1,1 @@
+It takes longer to do it the wrong way because it's inconvenient while its wrong. And you still have to do it right.
