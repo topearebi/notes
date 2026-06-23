@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft - Self Image.md",
+                "file": "Draft - Team Message.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draft - Self Image"
+              "title": "Draft - Team Message"
             }
           }
         ],
@@ -185,16 +185,17 @@
   },
   "active": "7cfbf0e738099966",
   "lastOpenFiles": [
+    "New test sync note obsidian.md",
+    "Draft - Team Message.md",
+    "projects/writing/Draft - Self Image.md",
     "projects/writing/Everything I know.md",
     "projects/writing/Irrational Choices - How and why we make wrong decisions.md",
     "projects.md",
-    "Draft - Team Message.md",
     "journal/Feb 16 2026.md",
     "index.md",
     "projects/digital_garden.md",
     "CONFIG.md",
     "projects/writing/Draft - Sad beauty .md",
-    "New test sync note obsidian.md",
     "Mtg - Cube fest.md"
   ]
 }
