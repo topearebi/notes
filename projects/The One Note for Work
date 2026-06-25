@@ -1,0 +1,31 @@
+---
+tags: work, writing
+status: in progress
+---
+
+## Date: 24/06/2026
+Exams UAT is underway
+Readiness for data uploads and integration activity is in question
+Goran is off for a month after friday
+CSV upload inputs have been shared which wendy can start with
+
+Responsibility for Exams cutover plan to ensure everything is ready for release - Amrit -> Jen
+Scope of viewer UAT
+- are additional tickets being completed going to be added to UAT scope
+
+Dependency log updates
+SteP integration - plan for step integration has been presented to the project board in May. timelines etc
+CMIS - update requested from Matt
+CAFM - CAFM integration timeline still unknown. There is a manual time consuming workaround in place.
+
+Viewer hypercare support
+- Viewer has been accepted into service by TimeEdit
+Matt - First phase may be in service but it should be in service. Viewer and Exams release should be treated as hypercare for the next two weeks. TimeEdit has the names now for who will be supporting
+Process for hypercare - Issues should be logged in ServiceNow. End users need to raise these tickets in ServiceNow
+Exams viewer has different functionality to regular viewer. Users won't be using it till later in the year.
+Matt. TimeEdit is aware that exams is tow phases so hypercare will be two phases.
+Access to the SN queue for the project team?
+From there - Zendesk w/ whoever Dan provides
+
+If a servicenow ticket requires dev work or is a bug etc, then an ADO ticket should be created. For now, SN ref should be manually added to the created ADO ticket
+Comms with Jayne to determine how CMP and Data issues will be addressed outside of the basic timetabling issues vs system issues T&E team issues
