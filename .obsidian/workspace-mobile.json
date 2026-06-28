@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/The 10 Sefirot and their human expressions.md",
+                "file": "zettelkasten/202606231926 - Do the harder thing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The 10 Sefirot and their human expressions"
+              "title": "202606231926 - Do the harder thing"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "zettelkasten/The 10 Sefirot and their human expressions.md",
+            "file": "zettelkasten/202606231926 - Do the harder thing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,8 +185,8 @@
   },
   "active": "7cfbf0e738099966",
   "lastOpenFiles": [
-    "zettelkasten/Definition - Problem Solving.md",
     "zettelkasten/The 10 Sefirot and their human expressions.md",
+    "zettelkasten/Definition - Problem Solving.md",
     "zettelkasten/Framework - PACE (Communication Methodology).md",
     "zettelkasten/202606231926 - Do the harder thing.md",
     "zettelkasten/202603182035 - Huberman - How to speak better.md",
