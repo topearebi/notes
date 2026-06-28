@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Definition - Problem Solving.md",
+                "file": "zettelkasten/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definition - Problem Solving"
+              "title": "Untitled"
             }
           }
         ],
@@ -185,6 +185,8 @@
   },
   "active": "7cfbf0e738099966",
   "lastOpenFiles": [
+    "zettelkasten/Definition - Problem Solving.md",
+    "zettelkasten/Untitled.md",
     "zettelkasten/Framework - PACE (Communication Methodology).md",
     "zettelkasten/202606231926 - Do the harder thing.md",
     "zettelkasten/202603182035 - Huberman - How to speak better.md",
