@@ -1,3 +1,8 @@
+---
+aliases:
+---
+
+
 The 10 Sefirot are described as divine channels of attribute and energy. Here are their names and primary functions as explained in the video (0:52-3:02):
 
 1. Chochmah (0:52): The initial seed of an idea; inspiration.
