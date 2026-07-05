@@ -3,4 +3,10 @@ The first step in this process is to name your ku so that it is easy to refer to
 
 My Ku - Eyi. From my name Eyiowuawi
 
-Next step is to explore your mum's storage of memories.
+Next step is to explore your Ku's storage of memories.
+
+There are 2 exercises for this
+
+One is to explore events and things and dwell in them
+
+The other is to 
