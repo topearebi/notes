@@ -19,3 +19,9 @@ With trash collecting, you tell your Ku to focus on your worst memories and try 
 ## Symbol Talk
 
  The ku can understand or communicate in symbols better than language. 
+
+You
+I have the power (ability) to . . .
+I have the right (I deserve) to . . . 
+I have the desire to . . .
+I have the will (determination) to . . .
