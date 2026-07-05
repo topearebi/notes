@@ -18,7 +18,4 @@ With trash collecting, you tell your Ku to focus on your worst memories and try 
 
 ## Symbol Talk
 
-
-One is to explore events and things and dwell in them
-
-The other is to 
+ 
