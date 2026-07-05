@@ -22,7 +22,7 @@ With trash collecting, you tell your Ku to focus on your worst memories and try 
 
 ## Backtalk
 
-You can prompt 
+You can prompt your Ku and explore it's feelings on a particular goal or venture by making statements towards them and exploring the responses and feelings that these statements birth. The statements out BBC-
 I have the power (ability) to . . .
 I have the right (I deserve) to . . . 
 I have the desire to . . .
