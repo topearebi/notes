@@ -29,3 +29,5 @@ I have the right (I deserve) to . . .
 I have the desire to . . .
 I have the will (determination) to . . .
 
+Iono - conscious 
+Aka - 
