@@ -18,4 +18,4 @@ With trash collecting, you tell your Ku to focus on your worst memories and try 
 
 ## Symbol Talk
 
- The ku 
+ The ku can understand or communicate in symbols better than language. 
