@@ -30,4 +30,4 @@ I have the desire to . . .
 I have the will (determination) to . . .
 
 Iono - conscious 
-Aka - 
+Aka - aura
