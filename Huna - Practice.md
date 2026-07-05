@@ -7,7 +7,8 @@ Next step is to explore your Ku's storage of memories.
 
 There are 2 exercises for this memory search both of which are best done in a sort of meditative state.
 
-1. Tr
+1. Treasure hunt
+Invite your Ku to pay
 
 One is to explore events and things and dwell in them
 
