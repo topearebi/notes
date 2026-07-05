@@ -18,9 +18,11 @@ With trash collecting, you tell your Ku to focus on your worst memories and try 
 
 ## Symbol Talk
 
- The ku can understand or communicate in symbols better than words. So you can prompt inst
+ The ku can understand or communicate in symbols better than words. So you can prompt instead that it gives you a symbol to represent it's feelings on a particular topic that you provide it 
 
-You
+## Backtalk
+
+You can prompt 
 I have the power (ability) to . . .
 I have the right (I deserve) to . . . 
 I have the desire to . . .
