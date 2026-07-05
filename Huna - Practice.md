@@ -5,7 +5,7 @@ My Ku - Eyi. From my name Eyiowuawi
 
 Next step is to explore your Ku's storage of memories.
 
-There are 2 exercises for this
+There are 2 exercises for this memory search both of which are best done in a 
 
 One is to explore events and things and dwell in them
 
