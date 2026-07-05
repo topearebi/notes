@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/booknotes/The Long Walk Stephen King.md",
+                "file": "projects/writing/Irrational Choices - How and why we make wrong decisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Long Walk Stephen King"
+              "title": "Irrational Choices - How and why we make wrong decisions"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "active": "7cfbf0e738099966",
   "lastOpenFiles": [
+    "resources/booknotes/The Long Walk Stephen King.md",
     "zettelkasten/202606231926 - Do the harder thing.md",
     "zettelkasten/The 10 Sefirot and their human expressions.md",
     "zettelkasten/Definition - Problem Solving.md",
