@@ -11,8 +11,8 @@ Current events: “Did you hear that ________? What are they going to think of n
 Entertainment: “Have you seen the new ________ movie yet? I wonder if it’s any good.”
 
 - Focus on eye to eye contact
-- 
-If you’d like to develop this crucial but subtle skill furthTry to hail a cab, get a bartender’s attention, or call a waiter to your table without speaking or gesturing—instead, use nothing but eye contact.
+- Make a note of different eye colours
+- Try to hail a cab, get a bartender’s attention, or call a waiter to your table without speaking or gesturing—instead, use nothing but eye contact.
 ## Personal mission statement
 What three accomplishments would you like to achieve to make you happier?
 What are the reasons these accomplishments will make you happier?
