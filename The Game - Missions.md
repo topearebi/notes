@@ -22,4 +22,4 @@ List three specific results that will let you know that you’ve accomplished yo
 Why are you now fully committed to pursuing your personal mission?
 
 ## Confidence building?
-spect you. You radiate charisma, charm, and grace. You stand out from everyone around you. Talking to you is a privilege. And you deserve the best the world has to offer. It’s all there out there, waiting for you.
+You are amazing. spect you. You radiate charisma, charm, and grace. You stand out from everyone around you. Talking to you is a privilege. And you deserve the best the world has to offer. It’s all there out there, waiting for you.
