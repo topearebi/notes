@@ -20,3 +20,6 @@ What are the reasons these accomplishments will make you happier?
 What is your personal mission?
 List three specific results that will let you know that you’ve accomplished your mission. (For example, “I will have earned $200,000,” “I will have lost thirty pounds,” or “I will have won five Academy Awards.”)
 Why are you now fully committed to pursuing your personal mission?
+
+## Confidence building?
+spect you. You radiate charisma, charm, and grace. You stand out from everyone around you. Talking to you is a privilege. And you deserve the best the world has to offer. It’s all there out there, waiting for you.
