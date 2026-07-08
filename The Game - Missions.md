@@ -9,3 +9,5 @@ Weather: “It’s beautiful out today. Too bad we’re stuck inside.”
 Sports: “Did you catch the ________ game last night? I couldn’t believe it.”
 Current events: “Did you hear that ________? What are they going to think of next?”
 Entertainment: “Have you seen the new ________ movie yet? I wonder if it’s any good.”
+
+## 
