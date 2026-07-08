@@ -10,4 +10,7 @@ Sports: “Did you catch the ________ game last night? I couldn’t believe it.�
 Current events: “Did you hear that ________? What are they going to think of next?”
 Entertainment: “Have you seen the new ________ movie yet? I wonder if it’s any good.”
 
-## 
+## Personal mission statement
+What three accomplishments would you like to achieve to make you happier?
+What are the reasons these accomplishments will make you happier?
+What is your personal mission?
