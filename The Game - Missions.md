@@ -23,3 +23,5 @@ Why are you now fully committed to pursuing your personal mission?
 
 ## Confidence building?
 You are amazing. People love you and respect you. You radiate charisma, charm, and grace. You stand out from everyone around you. Talking to you is a privilege. And you deserve the best the world has to offer. It’s all there out there, waiting for you.
+The idea is to inspire and ground yourself in things that make you feel confident.
+
