@@ -1,1 +1,5 @@
-{"secret_key":"bp5Ye+0KqyLNd62lp7iqGiBos0HHSCo7Y8YTUH0EZpE=","auth_hash":"15bcd44d29f054d0afad54368edf18460f0c686bbe95cd4607e15b55c3980928","salt":"rGutGxHWYX2iqVAslHQJSQ=="}
+{
+  "secret": "8b0ASi0xcPfmd9sncCPJm6WiG0rRVDeDCu5+GLzmPOo=",
+  "config_hash": "b57437837f66097e2a8944dc487a17ef33387740e60c8d744570eb7796b3084e",
+  "salt": "TDUA4KQLhPr/jzzSxO/nEw=="
+}
