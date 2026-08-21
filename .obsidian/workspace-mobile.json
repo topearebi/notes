@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New test sync note obsidian.md",
+                "file": "chromebook-test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New test sync note obsidian"
+              "title": "chromebook-test"
             }
           }
         ],
@@ -215,6 +215,7 @@
   },
   "active": "ebccd19343899dcf",
   "lastOpenFiles": [
+    "New test sync note obsidian.md",
     "zettelkasten.md",
     "The Game - Missions.md",
     "resources/booknotes.md",
@@ -240,7 +241,6 @@
     "zettelkasten/The 10 Sefirot and their human expressions.md",
     "zettelkasten/Definition - Problem Solving.md",
     "zettelkasten/Framework - PACE (Communication Methodology).md",
-    "zettelkasten/202603182035 - Huberman - How to speak better.md",
     "resources/Second Language Acquisition",
     "projects/UoS coord notes/25 June 2026",
     "projects/UoS coord notes/24 June 2026",
