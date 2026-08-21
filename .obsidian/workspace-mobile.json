@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Game - Missions.md",
+                "file": "New test sync note obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Game - Missions"
+              "title": "New test sync note obsidian"
             }
           }
         ],
@@ -80,7 +80,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -213,38 +215,38 @@
   },
   "active": "ebccd19343899dcf",
   "lastOpenFiles": [
-    "Huna - Practice.md",
+    "zettelkasten.md",
     "The Game - Missions.md",
+    "resources/booknotes.md",
+    "resources/booknotes/Working Backwards Amazon.md",
+    "resources/booknotes/Venus in Furs.md",
+    "resources/booknotes/Toddler Hunting.md",
+    "resources/booknotes/The White Tiger.md",
+    "resources/booknotes/The Long Walk Stephen King.md",
+    "resources/booknotes/The Control Book.md",
+    "resources/booknotes/The 5am Club.md",
+    "resources/booknotes/Permutation City.md",
+    "resources/booknotes/Marginalian notes.md",
+    "resources/booknotes/Flowers for Algernon.md",
+    "resources/booknotes/Fascinate.md",
+    "projects/digital_garden.md",
+    "Huna - Practice.md",
     "projects/writing/Draft - Dating Apps, Swiping and Psychology.md",
     "2026-07-05.md",
     "projects/writing/Draft - Self Image.md",
     "Draft - Team Message.md",
     "projects/writing/Irrational Choices - How and why we make wrong decisions.md",
-    "resources/booknotes/The Long Walk Stephen King.md",
     "zettelkasten/202606231926 - Do the harder thing.md",
     "zettelkasten/The 10 Sefirot and their human expressions.md",
     "zettelkasten/Definition - Problem Solving.md",
     "zettelkasten/Framework - PACE (Communication Methodology).md",
     "zettelkasten/202603182035 - Huberman - How to speak better.md",
-    "resources/Second Language Acquisition/tools.md",
-    "resources/Second Language Acquisition/Scheduling.md",
-    "resources/Second Language Acquisition/Pillar 4 - The Input Output Loop.md",
-    "resources/Second Language Acquisition/Pillar 3 - The Vocabulary Engine.md",
-    "resources/Second Language Acquisition/Pillar 2 - Structural Skeleton.md",
-    "resources/Second Language Acquisition/Pillar 1 - Phonetic Foundation.md",
     "resources/Second Language Acquisition",
     "projects/UoS coord notes/25 June 2026",
     "projects/UoS coord notes/24 June 2026",
     "projects/UoS coord notes",
     "projects/AROAMJTI/Summer, desire and temptations",
     "projects/AROAMJTI",
-    "templates/new_zettel.md",
-    "zettelkasten/20266231926 - do the harder thing",
-    "New test sync note obsidian.md",
-    "projects/writing/Everything I know.md",
-    "projects.md",
-    "journal/Feb 16 2026.md",
-    "index.md",
-    "projects/digital_garden.md"
+    "zettelkasten/20266231926 - do the harder thing"
   ]
 }

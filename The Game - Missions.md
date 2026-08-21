@@ -25,3 +25,36 @@ Why are you now fully committed to pursuing your personal mission?
 You are amazing. People love you and respect you. You radiate charisma, charm, and grace. You stand out from everyone around you. Talking to you is a privilege. And you deserve the best the world has to offer. It’s all there out there, waiting for you.
 The idea is to inspire and ground yourself in things that make you feel confident.
 
+### Note
+- Identifying your negative self talks and limiting beliefs 
+- Replace them with new one
+- Distance yourself from negativity with depersonalised language
+- Bring yourself in the frame for success with personalised language
+- Relax your definition of success from outcomes to experiences and curiousity
+- The only real failure is when you give up and stop trying 
+- Crash and burn often. Get used to it. That's left. Failure, rejection. No one great for there without it.
+
+## Opening 
+Openers aren't really a thing. The words don't really matter. It's more the intent.
+The most important thing is to start from a place of genuine curiosity or passion.
+**How to build an opener**
+1. Begin with a statement. Eg, you look like an expert or let me get your opinion on something or help me settle this debate quickly
+2. Do not start with excuse me, I'm sorry etc
+
+Imagine your ideal woman.
+list below five specific criteria you would like her to possess. 
+Consider such qualities as personality, looks, upbringing, values, interests, knowledge, and life experience.
+
+Now list five deal breakers. 
+Qualities that might prevent you from dating someone 
+could include manipulativeness, narcissism, smoking, drinking, drug use, jealousy, pets you’re allergic to, and emotional baggage.
+
+## Building authority
+The key to building authority is building a yes ladder. Basically making statements that the person you are in conversation with agrees with. As you make more of this, their confidence in your knowledge grows and they are more likely to agree with you when in doubt. There are a few techniques that can be employed to achieve this
+**Conditionality**:
+**False Specificity**:
+**Confidence**:
+**Approval**:
+**Oposites**:
+**Observation**:
+**Listening**:
