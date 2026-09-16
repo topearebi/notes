@@ -1,5 +1,4 @@
-Step 0: Metadata
- * Book Title: Venus in Furs (Venus im Pelz)
+## Book Title: Venus in Furs (Venus im Pelz)
  * Author: Leopold von Sacher-Masoch
  * Tags: #BookNotes #ClassicLiterature #Psychology #Eroticism #Ethics
 Step 1: The Context Anchor
