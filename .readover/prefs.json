@@ -1,5 +1,10 @@
 {
-  "fields": {},
+  "fields": {
+    "theme": {
+      "t": 1791676862110,
+      "v": "light"
+    }
+  },
   "libraries": {
     "gh:topearebi/notes": {
       "branch": "main",
