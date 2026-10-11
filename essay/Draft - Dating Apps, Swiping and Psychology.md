@@ -1,0 +1,1 @@
+There is something fundamentally disturbing about the actual of swiping on people. The seemingly endless feed of profiles and faces all promising to be your next romance or one night stand. Depending on what you're in the market for.
