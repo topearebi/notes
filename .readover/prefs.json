@@ -1,0 +1,15 @@
+{
+  "fields": {},
+  "libraries": {
+    "gh:topearebi/notes": {
+      "branch": "main",
+      "ignore": "",
+      "name": "Notes",
+      "owner": "topearebi",
+      "repo": "notes",
+      "root": "",
+      "t": 1791676766379
+    }
+  },
+  "version": 2
+}
