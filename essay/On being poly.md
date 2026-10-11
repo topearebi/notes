@@ -18,3 +18,7 @@
 ## See also
 
 1.
+
+## Thoughts
+
+- 2026-10-11: What was this about again? The actual of polyamory as a whole? Or my practice of it in my own relationship?
