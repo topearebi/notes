@@ -31,3 +31,7 @@ Atomic note
 ### Tags
 
 #tag1
+
+## Related
+
+- [[An analysis of Dokkodo - 21 principles in the path of aloneness (Miyamoto Musashi)]]
