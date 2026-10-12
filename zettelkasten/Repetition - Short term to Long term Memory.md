@@ -11,3 +11,7 @@ Repetition helps the brain convert new information from short-term transient mem
 ## Thoughts
 
 - 2026-10-12: Repetition of knowledge helps it stick but improving the recruitment of neural networks in that pathway. But repetition of movement patterns also trains the speed of muscular recruitment for the specific movement. Like shouting a basketball over and over again or throwing a punch. Memory = Reps
+
+## Related
+
+- [[Technique Improving Speed |Technique: Improving Speed]]
