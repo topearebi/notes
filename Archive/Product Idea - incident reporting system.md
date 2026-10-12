@@ -1,3 +1,8 @@
+---
+pruned: 2026-10-12
+pruned_from: resources/reference
+---
+
 # Product Idea - incident reporting system
 
 The product is an incident reporting system that allows users to report incidents happening in their locality or immediate surroundings to appropriate authorities and ensure that awareness about the incident is generated to ensure a higher chance of resolution.
