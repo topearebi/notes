@@ -16,3 +16,4 @@ According to an article by Jason Kehe in Wired, for a potentially unconventional
 
 - [[Zeitgeist formation - Is it the carrier or its contents]]
 - [[Zeitgeist Formation - The how]]
+- [[Zeitgeist formation - Nature and Definition of Evidence in the Digital Age]]
