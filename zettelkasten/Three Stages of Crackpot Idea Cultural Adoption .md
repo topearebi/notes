@@ -11,3 +11,7 @@ According to an article by Jason Kehe in Wired, for a potentially unconventional
 *Of Course We’re Living in a Simulation, Jason Kehe, Wired*
 
 ---
+
+## Related
+
+- [[Zeitgeist formation - Is it the carrier or its contents]]
