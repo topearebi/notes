@@ -26,9 +26,6 @@ Atomic note
 
 [Dokkōdō - Wikipedia](https://en.wikipedia.org/wiki/Dokk%C5%8Dd%C5%8D)
 
-### Tags
-
-#tag1
 
 ## Related
 
