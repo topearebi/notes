@@ -7,3 +7,7 @@ You might consider taking (30-60 min before bed):	145mg Magnesium Threonate or 2
 ### Tags
 
 #tag1
+
+## Thoughts
+
+- 2026-10-12: Magnesium before bed has definitely helped on the few occasions I've taken it. Although I've taken ZMA instead of pure magnesium. The problem is the consistency of it. ZMA according to the label shouldn't be taken with dairy or a full stomach. Which is basically how I end 95 percent of my days. Tea and late dinner.
