@@ -11,3 +11,7 @@ Related Notes: Definition: Speed (Definition%20Speed%201f5635c581e08076b3e0f2066
 ### Tags
 
 #tag1
+
+## Related
+
+- [[Definition - Speed (physical fitness)]]
