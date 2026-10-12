@@ -6,3 +6,7 @@ The ability of muscles to exert force repeatedly or to sustain contraction over 
 ### Source
 
 ### Tags
+
+## Related
+
+- [[Definition - Muscular Strength]]
