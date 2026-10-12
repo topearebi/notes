@@ -35,3 +35,4 @@ Atomic note
 ## Related
 
 - [[An analysis of Dokkodo - 21 principles in the path of aloneness (Miyamoto Musashi)]]
+- [[Musashi’s Dokkodo - the first precept (accept ever |Musashi’s Dokkodo - the first precept (accept everything)]]
