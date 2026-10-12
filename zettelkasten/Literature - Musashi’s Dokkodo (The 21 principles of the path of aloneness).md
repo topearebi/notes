@@ -1,5 +1,3 @@
-Related Notes: Literature: Musashi’s Dokkodo - The path of aloneness (Literature%20Musashi%E2%80%99s%20Dokkodo%20-%20The%20path%20of%20alonene%201f4635c581e08026b01cecdfb68fddfd.md), Musashi’s Dokkodo - the first precept (accept everything) (Musashi%E2%80%99s%20Dokkodo%20-%20the%20first%20precept%20(accept%20ever%201f2635c581e08017be12ffd97ad66e97.md)
-
 Atomic note
 
 1. Accept everything just the way it is.
