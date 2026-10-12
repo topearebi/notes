@@ -15,3 +15,4 @@ According to an article by Jason Kehe in Wired, for a potentially unconventional
 ## Related
 
 - [[Zeitgeist formation - Is it the carrier or its contents]]
+- [[Zeitgeist Formation - The how]]
