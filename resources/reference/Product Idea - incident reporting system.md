@@ -31,3 +31,7 @@ Location
 Shareability
 
 Data logging and tracking / incident ID
+
+## Thoughts
+
+- 2026-10-12: The problem I've always had with this idea is that it's basically social media. Unless the actual emergency response system was fixed and it connected directly.
