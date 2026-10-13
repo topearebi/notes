@@ -10,6 +10,7 @@ Workout routine
 Assignments: 
 - Voice memos, 
 - VideosEssays, 
+
 Long term behaviour modification: Dictate language or dressing to include specific elements like saying sir or wearing a collar, doing chores
 Words on skin/clothes 
 Pain tolerance level tests
