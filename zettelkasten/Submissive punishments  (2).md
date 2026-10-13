@@ -1,9 +1,6 @@
 # Submissive punishments
 
-## Idea summary:
-
-Ideas for punishments for a submissive
-
+## Punishment Ideas
 Orgasm control. 
 Orgasm denial 
 Workout routine 
@@ -11,7 +8,7 @@ Assignments:
 - Voice memos, 
 - VideosEssays, 
 
-Long term behaviour modification: Dictate language or dressing to include specific elements like saying sir or wearing a collar, doing chores
+**Long term behaviour modification:** Dictate language or dressing to include specific elements like saying sir or wearing a collar, doing chores
 Words on skin/clothes 
 Pain tolerance level tests
 Self inflicted pain:
@@ -26,7 +23,7 @@ Outdoor
 Watersports 
 Temperature play
 
-Ideas for Rewards 
+## Reward Ideas
 The dominant's physical presence 
 Outfit selection 
 Event tickets
