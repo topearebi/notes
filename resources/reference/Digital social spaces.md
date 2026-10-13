@@ -32,3 +32,7 @@ Stretching the idea of social skins into the digital environment
 
 1. [On Social Skins](On%20Social%20Skins%20e0f39785bbe7448d9891560414bc26e1.md) 
 2. [Social Skins: Survival of the Socially Adept ](Social%20Skins%20Survival%20of%20the%20Socially%20Adept.md)
+
+## Thoughts
+
+- 2026-10-13: There's a connection here somewhere to the essay on dating apps and swiping on human beings
