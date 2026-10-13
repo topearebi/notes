@@ -2,7 +2,7 @@
 tags: [writing, draft]
 status: idea
 ---
-# Draft - 
+# Self Image and Perception
 
 > **Core Idea:** (One sentence summary)
 
