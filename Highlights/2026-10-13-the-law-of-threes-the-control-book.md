@@ -1,5 +1,5 @@
 ---
-title: "\"three of anything is often enough to reliably…"
+title: The law of threes - The Control Book
 date: 2026-10-13 08:45 +0100
 source: The Control Book
 tags: []
