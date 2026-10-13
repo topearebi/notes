@@ -18,6 +18,7 @@ Self inflicted pain:
 - Clothespins 
 - Spanking 
 - Choking 
+
 Position Training 
 Forced silence 
 Cuckqueaning 
