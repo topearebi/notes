@@ -2,7 +2,7 @@
 tags: [writing, draft]
 status: idea
 ---
-# Draft - 
+# Psychological safety in the workplace
 
 > **Core Idea:** To explain to the team about the levels of psychological safety and the steps it takes to achieve them
 
