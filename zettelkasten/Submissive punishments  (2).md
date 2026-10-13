@@ -28,11 +28,3 @@ The dominant's physical presence
 Outfit selection 
 Event tickets
 Setting skill goals
-
-## Idea context:
-
-Punishment and rewards are essential to establishing a DS dynamic.
-
-## See Also
-
-1.
