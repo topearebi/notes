@@ -38,3 +38,9 @@ Article idea for [[Thoughtfood]]
 ## See also
 
 1.
+
+## Thoughts
+
+- 2026-10-13: I don't remember what the cited incidents were about so I imagine I'll have to do a rewrite. The topic is still relevant though. Although I imagine in the greater context of why we as a collective tend to judge people for their actions despite the existence of the law and the judicial process.  Why does it not satisfy us.
+  
+  Why do we distinguish between moral and legal wrong. And when we do, we think people can commit morally wrong acts that are so heinous, they deserve punishment reserves for legal infractions
