@@ -1,3 +1,8 @@
+---
+pruned: 2026-10-13
+pruned_from: resources/reference/certifications
+---
+
 ## Active Certifications
 ```query
 certification where status = "active"
