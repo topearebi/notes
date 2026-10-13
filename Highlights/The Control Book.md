@@ -21,7 +21,7 @@ Focuses on creating a self-sustaining environment where the power dynamic is nor
  * "For a submissive to be able to feel the dominant's control when the dominant is not around... the submissive requires a well-integrated set of rules, orders, and awareness of the dominant's values and preferences."
  * "Ritual is a vital part of the relationship between a dominant and their submissive"
  * "A ritual can directly satisfy the need for a submissive to express their submissive nature"
-### Theme C: Signal Theory & The Rule of Three
+### Theme C: Signal Theory & The Rule of Three[[2026-10-13-three-of-anything-is-often-enough-to-reliably|"three of anything is often enough to reliably…]]
 Focuses on how commands are processed by the brain to bypass conscious resistance.
  * "three of anything is often enough to reliably recognise the beginning of a pattern"
  * "If you want to physically take control of a submissive you can just say, 'Stand up!', but it'll be stronger if you give three orders, like, 'Stand up! Lift your head up straight! Shoulders back!'"
