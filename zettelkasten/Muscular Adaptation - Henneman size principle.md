@@ -1,1 +1,5 @@
 You use the minimal amount of motor neurons to lift any given weight. And you use more over time
+
+## Related
+
+- [[Huberman - Resistance training optimisation for different fitness goals]]
