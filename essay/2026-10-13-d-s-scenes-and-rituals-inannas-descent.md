@@ -70,3 +70,7 @@ The submissive approaches the space wearing physical items or markers that inten
 Once at the absolute baseline, the submissive enters the equivalent of being "hung on the meat hook"—a state of total stillness, ego-drop, and pure vulnerability.
 The ritual must close by honoring the myth's climax: the healing presence of the Gala creatures. The Dominant must drop any harsh persona and step into radical, grounding care—holding the submissive, offering water, mirroring their breathing, and allowing them to cry or shake as they process the emotional release.
 When ascending back into the world, clothes or jewelry are returned slowly. The Dominant can explicitly ask: "What parts of the stress and armor you walked in with do you want to leave behind in the dark?"
+
+## Related
+
+- [[Submissive communication rituals |Submissive communication rituals]]
