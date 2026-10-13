@@ -65,7 +65,7 @@ The submissive approaches the space wearing physical items or markers that inten
 • The Ritual Action: The remaining clothing is removed. The submissive is left completely exposed.
 • The Psychological Shift: Striped of all shields—clothes, words, movement, and sight—the submissive drop completely into subspace.
 
-🖤 "The Hook" and the Aftercare
+## "The Hook" and the Aftercare
 
 Once at the absolute baseline, the submissive enters the equivalent of being "hung on the meat hook"—a state of total stillness, ego-drop, and pure vulnerability.
 The ritual must close by honoring the myth's climax: the healing presence of the Gala creatures. The Dominant must drop any harsh persona and step into radical, grounding care—holding the submissive, offering water, mirroring their breathing, and allowing them to cry or shake as they process the emotional release.
