@@ -24,3 +24,7 @@ This is a standard system so many existing examples to draw from. Helps you comm
 ## See Also
 
 1.
+
+## Related
+
+- [[2026-10-13-d-s-scenes-and-rituals-inannas-descent|D/S Scenes and Rituals - Inannas descent]]
