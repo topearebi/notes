@@ -9,7 +9,7 @@ Assignments:
 - VideosEssays, 
 
 **Long term behaviour modification:** Dictate language or dressing to include specific elements like saying sir or wearing a collar, doing chores
-Words on skin/clothes 
+Writing words on skin or clothes 
 Pain tolerance level tests
 Self inflicted pain:
 - Clothespins 
