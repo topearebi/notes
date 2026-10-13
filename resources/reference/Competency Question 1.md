@@ -1,1 +1,0 @@
-# Competency Question 1
