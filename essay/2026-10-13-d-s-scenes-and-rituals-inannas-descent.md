@@ -4,7 +4,7 @@ date: 2026-10-13 21:37 +0100
 tags: []
 ---
 
-Based on the descent of Inannas through the 7 gates on her way] to hell. At each gate, she was forced to leave something behind until finally she arrived in hell, naked. And then she dies. Dessicated, her body is strung up where she suggers until enki sends two creatures with empathy but no personality to rescue her. The underworld requires a trade for for any soul to leave, and so it is that Inanna's husband came to take her place.
+Based on the descent of Inannas through the 7 gates on her way] to hell. At each gate, she was forced to leave something behind until finally she arrived in hell, naked. And then she dies. Dessicated, her body is strung up where she suggers until enki sends two creatures with empathy but no personality to rescue her. The underworld requires a trade for for any soul to leave, and so it is that Inanna's husband came to take her place and swaps with his sister half the year but that part of the story is irrelevant to this.
 
 In similar fassion the submissive is made to descend using a series of gates until they are name synonymously named to represent the 
 
