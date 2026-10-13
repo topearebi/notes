@@ -6,7 +6,7 @@ Orgasm denial
 Workout routine 
 Assignments: 
 - Voice memos, 
-- VideosEssays, 
+- Videos essays, 
 
 **Long term behaviour modification:** Dictate language or dressing to include specific elements like saying sir or wearing a collar, doing chores
 Writing words on skin or clothes 
