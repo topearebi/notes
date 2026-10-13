@@ -1,3 +1,8 @@
+---
+pruned: 2026-10-13
+pruned_from: resources/homelab
+---
+
 This guide serves as the **Administrator's Manual** for your SilverBullet v0.1 instance. It documents the architecture, code, and procedures required to maintain, rebuild, or expand the system.
 
 I recommend saving this content as a page in your system (e.g., `System/Manual`) so it is always accessible.
