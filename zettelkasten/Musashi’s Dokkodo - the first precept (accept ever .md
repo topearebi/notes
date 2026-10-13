@@ -7,3 +7,7 @@ Rather than wish for a life without suffering, look for the strength to suffer w
 ### Tags
 
 #stoicism
+
+## Related
+
+[[Literature - Musashi’s Dokkodo (The 21 principles of the path of aloneness)]]
