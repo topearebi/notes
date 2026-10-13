@@ -9,3 +9,7 @@ tags: []
 >
 > — [[The Control Book]]
 <!-- readover {"from":"gh:topearebi/notes|Highlights/The Control Book.md"} -->
+
+## Thoughts
+
+- 2026-10-13: This makes sense both for people, situations and life. There is necessarily a clear demarcation between the moment when you are not in control and the moment you are. And that demarcation is defined by the act of taking control. It is a result that requires an actions
