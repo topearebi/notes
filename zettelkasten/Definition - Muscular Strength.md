@@ -12,3 +12,4 @@ The amount of force a muscle or group of muscles can exert against a resistance 
 ## Related
 
 - [[Definition - Cardiorespiratory Endurance]]
+- [[Definition - Muscular Endurance]]
