@@ -3,10 +3,6 @@ While these characters are sometimes given redemptive plot arcs, and usually nob
 
 From https://www.ribbonfarm.com/2024/03/13/storytelling-just-add-dinosaurs/
 
-## Related
-
-- [[Story character belief divergence]]
-
 ## Thoughts
 
 - 2026-10-14: An interesting point to note is that sometimes, characters believe in a worldview than that different from the story itself.
