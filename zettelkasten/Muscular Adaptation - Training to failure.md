@@ -3,3 +3,7 @@
 5 sets per week is for muscular maintenance
 
 10 percent of a workout should be in failure
+
+## Related
+
+- [[Muscular Adaptation - Inducing muscular change]]
