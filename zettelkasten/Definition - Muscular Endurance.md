@@ -9,3 +9,4 @@ The ability of muscles to exert force repeatedly or to sustain contraction over 
 
 - [[Definition - Muscular Strength]]
 - [[Technique Improving Muscular Endurance |Technique: Improving Muscular Endurance]]
+- [[Definition - Muscular Strength]]
