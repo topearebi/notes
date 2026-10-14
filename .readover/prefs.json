@@ -10,6 +10,15 @@
     }
   },
   "libraries": {
+    "gh:topearebi/aroamjti": {
+      "branch": "main",
+      "ignore": "",
+      "name": "aroamjti",
+      "owner": "topearebi",
+      "repo": "aroamjti",
+      "root": "",
+      "t": 1791943454244
+    },
     "gh:topearebi/notes": {
       "branch": "main",
       "ignore": "",
