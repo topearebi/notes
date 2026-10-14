@@ -3,3 +3,7 @@ This manifests in characters making statements or acting in ways which are consi
 This is especially jarring when this character-story inconsistency is exhibited by the main character. This is so because the MCs views thoughts and logic are often actively presented throughout the story and we are more immersed in it rather than the overarching storyline or in-world cosmos which is more passive
 
 Examples are Joe Goldberg in You, Humbert Humbert in Lolita, doctor who in doctor who
+
+## Related
+
+- [[Literature Note Story character belief divergence]]
