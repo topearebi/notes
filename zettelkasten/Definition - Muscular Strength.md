@@ -8,3 +8,7 @@ The amount of force a muscle or group of muscles can exert against a resistance 
 ### Tags
 
 #tag1
+
+## Related
+
+- [[Definition - Cardiorespiratory Endurance]]
