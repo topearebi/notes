@@ -18,3 +18,4 @@ This is the same whether the submissive is the self or another
 > "Any transfer of control from one person to another requires a specific action. Control doesn't transfer of its own accord"
 >
 > — The Control Book, [[2026-10-13-any-transfer-of-control-from-one-person-to|"Any transfer of control from one person to…]]
+- [[2026-10-14-moc-submission-discipline-and-control-the-use-of-ritual-2|MOC - Submission, Discipline and Control. The use of ritual, reward and punishment in establishing dominance"For a submissive to be able to feel…]]
