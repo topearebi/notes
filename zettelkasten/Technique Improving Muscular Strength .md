@@ -12,3 +12,7 @@ Related Notes: Definition: Muscular Strength (Definition%20Muscular%20Strength%2
 ### Tags
 
 #tag1
+
+## Related
+
+- [[Definition - Muscular Strength]]
