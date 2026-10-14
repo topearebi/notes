@@ -6,7 +6,6 @@ type: concept
 
 ## References
 
-I/Llew2
 https://www.reddit.com/r/selfhosted/s/Byz3RRNM75
 
 The Gray Box Problem of Self Hosting
