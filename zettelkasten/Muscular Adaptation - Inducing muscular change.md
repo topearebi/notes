@@ -4,3 +4,7 @@ There are three things that can cause muscle to change
 3. Damage
 
 Stress is a requirement because for a muscle to change, the conditions surrounding it must change
+
+## Related
+
+- [[Muscular Adaptation - Training to failure]]
