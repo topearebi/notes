@@ -2,7 +2,7 @@
 tags: [zettel, object]
 type: concept
 ---
-# 🧠 
+# Huberman - How to speak better
 
 **Related:** [[zettelkasten/]]
 
