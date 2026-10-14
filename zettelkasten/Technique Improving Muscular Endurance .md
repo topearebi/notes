@@ -11,3 +11,7 @@ Related Notes: Definition: Muscular Endurance (Definition%20Muscular%20Endurance
 ### Tags
 
 #tag1
+
+## Related
+
+- [[Definition - Muscular Strength]]
