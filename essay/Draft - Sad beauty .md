@@ -25,3 +25,7 @@ Called beauty
 ---
 
 ## ✍️ Content
+
+## Related
+
+- [[2026-10-14-moc-submission-discipline-and-control-the-use-of-ritual-2|MOC - Submission, Discipline and Control. The use of ritual, reward and punishment in establishing dominance"For a submissive to be able to feel…]]
