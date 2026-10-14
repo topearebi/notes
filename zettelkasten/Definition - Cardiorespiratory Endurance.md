@@ -8,3 +8,7 @@ refers to the ability of the cardiovascular and respiratory systems to deliver o
 ### Tags
 
 #cardiovascular #fitness
+
+## Related
+
+- [[Definition - Muscular Strength]]
