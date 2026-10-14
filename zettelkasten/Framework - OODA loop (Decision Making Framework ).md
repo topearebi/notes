@@ -8,3 +8,7 @@ The OODA loop is a decision-making framework primarily used for making strategy 
 ### Tags
 
 #tag1
+
+## Related
+
+- [[Definition - Problem Solving]]
