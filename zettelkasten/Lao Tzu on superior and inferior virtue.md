@@ -12,3 +12,7 @@ This suggests that true virtue operates without self-consciousness, while virtue
 ## See Also
 
 1.
+
+## Related
+
+- [[Virtue must be unaware of itself to be truly virtuous]]
