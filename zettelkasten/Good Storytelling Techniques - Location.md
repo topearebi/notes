@@ -2,3 +2,7 @@ Tags: creating
 Related Notes: Good Storytelling Techniques - Actions (Good%20Storytelling%20Techniques%20-%20Actions%201f2635c581e08040a7fddb4978277ac9.md), Good Storytelling Techniques - Thoughts (Good%20Storytelling%20Techniques%20-%20Thoughts%201f2635c581e0804bbc68ff981f8d5eed.md), Good Storytelling Techniques - Emotion (Good%20Storytelling%20Techniques%20-%20Emotion%201f2635c581e080e893dfcf70257c643b.md), Good Storytelling Techniques - DIalogue (Good%20Storytelling%20Techniques%20-%20DIalogue%201f2635c581e080d28a16f28aa76af4b2.md)
 
 Location is a fundamental aspect of good storytelling. Starting with where the story takes place helps to set the scene and contextualise the story for the audience
+
+## Related
+
+- [[Good Storytelling Techniques - DIalogue]]
