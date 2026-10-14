@@ -7,3 +7,7 @@ Problem Solving is the process of  identifying, analysing, and finding effective
 ### Tags
 
 #definition #problem-solving
+
+## Related
+
+- [[Framework - OODA loop (Decision Making Framework )]]
