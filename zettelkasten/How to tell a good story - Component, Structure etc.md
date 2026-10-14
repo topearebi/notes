@@ -10,3 +10,7 @@
 
 ## Tags
 #storytelling
+
+## Related
+
+- [[Good Storytelling Techniques - DIalogue]]
