@@ -2,13 +2,7 @@
 tags: [zettel, object]
 type: concept
 ---
-# 🧠 
-
-**Related:** [[zettelkasten/]]
-
----
-## The Concept
-
+# The Gray Box Problem of Self Hosting
 
 ## References
 
