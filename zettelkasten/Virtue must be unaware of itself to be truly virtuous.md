@@ -3,3 +3,4 @@ True, or superior, virtue is characterized by a lack of intention or self-awaren
 ## Related
 
 - [[Lao Tzu on superior and inferior virtue]]
+- [[2026-10-15-human-social-systems|Human social systems]]
