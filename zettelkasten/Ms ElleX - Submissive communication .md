@@ -31,3 +31,7 @@ After training the submissive, you must communicate to them that you will be usi
 8. Go
 9. Good job
 10. Open mouth
+
+## Related
+
+- [[Submissive communication rituals |Submissive communication rituals]]
