@@ -5,6 +5,7 @@ tags: [tag1, tag2, tag3]
 ---
 
 Here's how to do it right sample note
-[[This is a link to the setup|📘 SilverBullet System v0.1: Admin Manual]]
+
+[[silverbullet setup|so the first part is link and second is title got it]]
 
 How do make it seamless
