@@ -11,3 +11,7 @@ Of Course We’re Living in a Simulation, Jason Kehe, Wired
 ## See Also
 
 1.
+
+## Related
+
+- [[2026-10-15-human-social-systems|Human social systems]]
