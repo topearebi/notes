@@ -5,3 +5,4 @@ What is the character doing in the moment that you have chosen to tell the story
 ## Related
 
 - [[Good Storytelling Techniques - DIalogue]]
+- [[2026-10-15-here-is-the-way-i-am-this-is|Here is the way I am This is]]
