@@ -1,6 +1,6 @@
 ---
 tags: [writing, draft]
-title: You are sad because you are beautiful
+title: Sad beauty
 ---
 
 # Draft - 
