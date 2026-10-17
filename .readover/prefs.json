@@ -71,11 +71,12 @@
     "gh:topearebi/notes": {
       "branch": "main",
       "ignore": "",
-      "name": "notes",
+      "name": "notes (GitHub)",
       "owner": "topearebi",
       "repo": "notes",
       "root": "",
-      "t": 1792177936681
+      "t": 1792275257149,
+      "type": "github"
     }
   },
   "version": 2
