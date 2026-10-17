@@ -58,6 +58,12 @@
     }
   },
   "libraries": {
+    "dbx:dropbox": {
+      "name": "Dropbox",
+      "root": "",
+      "t": 1792275278786,
+      "type": "dropbox"
+    },
     "dbx:dropbox (abdullahi arebi)": {
       "name": "Dropbox (Abdullahi Arebi)",
       "root": "",
