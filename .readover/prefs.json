@@ -4,9 +4,17 @@
       "t": 1792261780155,
       "v": "dbx_mvc6kdemeqs8"
     },
+    "attachmentsDestination": {
+      "t": 1792261813750,
+      "v": "dropbox"
+    },
     "attachmentsFolder": {
-      "t": 1792255747400,
-      "v": "booookssss"
+      "t": 1792261823776,
+      "v": "attachments"
+    },
+    "attachmentsVault": {
+      "t": 1792261813750,
+      "v": "dropbox"
     },
     "booksHome": {
       "t": 1792261780155,
