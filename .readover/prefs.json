@@ -1,8 +1,8 @@
 {
   "fields": {
     "acquiredBooksHome": {
-      "t": 1792261780155,
-      "v": "dbx_mvc6kdemeqs8"
+      "t": 1792262824118,
+      "v": "dbx_mvce1t7n5z0p"
     },
     "attachmentsDestination": {
       "t": 1792261813750,
@@ -17,8 +17,8 @@
       "v": "dropbox"
     },
     "booksHome": {
-      "t": 1792261780155,
-      "v": "dbx_mvc6kdemeqs8"
+      "t": 1792262824118,
+      "v": "dbx_mvce1t7n5z0p"
     },
     "dropboxAppKey": {
       "t": 1792256571769,
@@ -27,6 +27,10 @@
     "highlightMix": {
       "t": 1791747285804,
       "v": 0
+    },
+    "highlightsFolder": {
+      "t": 1792262815088,
+      "v": ""
     },
     "pdfFit": {
       "t": 1792254532514,
