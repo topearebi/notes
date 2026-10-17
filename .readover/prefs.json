@@ -32,6 +32,22 @@
       "t": 1792254532514,
       "v": "page"
     },
+    "readerFont": {
+      "t": 1792262612279,
+      "v": "serif"
+    },
+    "readerFontSize": {
+      "t": 1792262612279,
+      "v": 100
+    },
+    "readerLineHeight": {
+      "t": 1792262612279,
+      "v": "normal"
+    },
+    "readerTheme": {
+      "t": 1792262612279,
+      "v": "paper"
+    },
     "theme": {
       "t": 1791676862110,
       "v": "light"
