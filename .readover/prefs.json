@@ -1,8 +1,8 @@
 {
   "fields": {
     "acquiredBooksHome": {
-      "t": 1792275370702,
-      "v": "dbx_mvc6kdemeqs8"
+      "t": 1792307072769,
+      "v": "dbx_mvce1t7n5z0p"
     },
     "attachmentsDestination": {
       "t": 1792261813750,
@@ -17,8 +17,8 @@
       "v": "dropbox"
     },
     "booksHome": {
-      "t": 1792275370702,
-      "v": "dbx_mvc6kdemeqs8"
+      "t": 1792307072769,
+      "v": "dbx_mvce1t7n5z0p"
     },
     "dropboxAppKey": {
       "t": 1792256571769,
