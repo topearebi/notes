@@ -18,3 +18,5 @@ date: 2026-10-18 05:48 +0100
 - highlights don't show the stage pill in the feed menu, but they show it in the note view.
 
 - the keyboard shortcut guide in settings is gone
+
+- there's a bug with the Dropbox connection. It always creates a duplicate connection that doesn't sync
