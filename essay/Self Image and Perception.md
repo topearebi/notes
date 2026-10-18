@@ -16,3 +16,4 @@ Yet what is truly amazing is not the chaotic, haphazard nature of this system, b
 ## Thoughts
 
 - 2026-10-18: First paragraph feels repetitive. It doesnt get t{ntjebhook fast enough{ugh. The point is how our self perception can be hijacked.
+- 2026-10-18: Self perception isn't even hijackable in that sense. I think this was supposed to be about manipulation and influence and automatic psychological responses. Prefabky reference from David Caldini's influence
