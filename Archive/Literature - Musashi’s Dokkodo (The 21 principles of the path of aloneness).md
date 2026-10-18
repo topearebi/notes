@@ -1,3 +1,8 @@
+---
+pruned: 2026-10-18
+pruned_from: zettelkasten
+---
+
 Atomic note
 
 1. Accept everything just the way it is.
