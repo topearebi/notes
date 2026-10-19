@@ -52,6 +52,12 @@
       "t": 1792262612279,
       "v": "paper"
     },
+    "removedSources": {
+      "t": 1792442838505,
+      "v": [
+        "dbx_mvebvf7oiprl"
+      ]
+    },
     "theme": {
       "t": 1792368903512,
       "v": "light"
@@ -59,10 +65,8 @@
   },
   "libraries": {
     "dbx:dropbox": {
-      "name": "Dropbox",
-      "root": "",
-      "t": 1792275278786,
-      "type": "dropbox"
+      "removed": true,
+      "t": 1792442838505
     },
     "dbx:dropbox (abdullahi arebi)": {
       "name": "Dropbox (Abdullahi Arebi)",
