@@ -11,3 +11,6 @@ Rapid startup options with on screen touch targets and controls for rounds and t
 - Persistent session statistics, ranking tables, etc across devises
 - Store favourite timers. Persistent username? Explore more game elements
 - additional or more varied sound system. One tone is easy to miss
+- some additional context on rounds, sprints, etc basically guidance on how pomodoro style works and system features
+- perssistent username
+- plug in music/now playing eg connect a source or playlist for focus mode music. Play with select speakers. Integration with macrodroid?
