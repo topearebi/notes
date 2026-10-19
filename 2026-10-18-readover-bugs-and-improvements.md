@@ -33,7 +33,7 @@ But how do you find new information? Social features? Shared zettelkastens? Find
 -- 
 
 ## Bugs
-[x] Dark mode is broken. Across all screens. Editor and note creator are uselles
+[ x ] Dark mode is broken. Across all screens. Editor and note creator are uselles
 
 ## Ideas
 - I still can't think of a way to do info summaries without AI. Maybe information should not be summarised and this is more a philosophy problem than a technical one
