@@ -27,3 +27,5 @@ date: 2026-10-18 05:48 +0100
 
 - Readover let's you curate information once you find it
 But how do you find new information? Social features? Shared zettelkastens? Finding connections across other people's repo. Temporary one time connection for shared editing. Index with tags? How do you determine what's related without existing links? Complex. Or a permanent connection for users to browse an external note and import it or make connections to their existing work. Shared human knowledge.
+
+- I still can't think of a way to do info summaries without AI. Maybe information should not be summarised and this is more a philosophy problem than a technical one
