@@ -22,3 +22,5 @@ date: 2026-10-18 05:48 +0100
 - there's a bug with the Dropbox connection. It always creates a duplicate connection that doesn't sync
 
 - how is conflict resolution managed. I'm connected on multiple devices and do frequent handovers. If I'm writing a note and it becomes an essay, I'll easily just move over to the laptop. They're all pointing to my GitHub but how would this be managed for all storage locations? Do we put a block on note edition if something is open? Or a note? Basically prevent conflict? Or provide a resolution step. Compare file contents or compare file meta like edit date, file size, character count etc for the user to pick the valid one? Or is it automatically balanced and duplicated?
+
+- Dark mode is broken. Across all screens. Editor and note creator are uselles
