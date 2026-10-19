@@ -5,7 +5,7 @@ date: 2026-10-19 07:35 +0100
 
 Pwa features and shortcuts for device level integrations across all systems
 Rapid startup options with on screen touch targets and controls for rounds and times
-- Focus/Zen mode. Decide what elements remain. Hourglass, count up, count down, dial?
+- Focus/Zen mode. Decide what elements remain. Hourglass, count up, count down, dial? There's a Zen mode button in the top bar so extending that.
 - How to communicate to people around when you are in busy mode or work mode?
 - interact with device OS to mute or silence notifications? Vibrate?
 - Persistent session statistics, ranking tables, etc across devises
