@@ -23,7 +23,7 @@ date: 2026-10-18 05:48 +0100
 
 - how is conflict resolution managed. I'm connected on multiple devices and do frequent handovers. If I'm writing a note and it becomes an essay, I'll easily just move over to the laptop. They're all pointing to my GitHub but how would this be managed for all storage locations? Do we put a block on note edition if something is open? Or a note? Basically prevent conflict? Or provide a resolution step. Compare file contents or compare file meta like edit date, file size, character count etc for the user to pick the valid one? Or is it automatically balanced and duplicated?
 
-- Dark mode is broken. Across all screens. Editor and note creator are uselles
+
 
 - Readover let's you curate information once you find it
 But how do you find new information? Social features? Shared zettelkastens? Finding connections across other people's repo. Temporary one time connection for shared editing. Index with tags? How do you determine what's related without existing links? Complex. Or a permanent connection for users to browse an external note and import it or make connections to their existing work. Shared human knowledge.
@@ -33,7 +33,7 @@ But how do you find new information? Social features? Shared zettelkastens? Find
 -- 
 
 ## Bugs
-
+[x] Dark mode is broken. Across all screens. Editor and note creator are uselles
 
 ## Ideas
 - I still can't think of a way to do info summaries without AI. Maybe information should not be summarised and this is more a philosophy problem than a technical one
