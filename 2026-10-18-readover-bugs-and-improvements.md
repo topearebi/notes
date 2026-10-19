@@ -28,7 +28,19 @@ date: 2026-10-18 05:48 +0100
 - Readover let's you curate information once you find it
 But how do you find new information? Social features? Shared zettelkastens? Finding connections across other people's repo. Temporary one time connection for shared editing. Index with tags? How do you determine what's related without existing links? Complex. Or a permanent connection for users to browse an external note and import it or make connections to their existing work. Shared human knowledge.
 
+
+
+-- 
+
+## Bugs
+
+
+## Ideas
 - I still can't think of a way to do info summaries without AI. Maybe information should not be summarised and this is more a philosophy problem than a technical one
 
--- Do keyboard shortcuts still work in readover editors and canvas. Can you copy, paste, highlight etc. ctrl s to save? Think of desktop usecases or a user connects their keyboard to their phone for long form essay writing. All the buttons should have keyboard equivalents if possible. Trigger to cite, link, graft, enter.
+## Questions
+- Do keyboard shortcuts still work in readover editors and canvas. Can you copy, paste, highlight etc. ctrl s to save? Think of desktop usecases or a user connects their keyboard to their phone for long form essay writing. All the buttons should have keyboard equivalents if possible. Trigger to cite, link, graft, enter.
+
 - Can you navigate the feed with a keyboard or clickker. Go up, go down, enter, edit, water, prune, archive, hide, delete etc
+
+#pwas
