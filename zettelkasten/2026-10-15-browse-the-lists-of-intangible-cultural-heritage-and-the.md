@@ -13,3 +13,6 @@ tags: [culture]
 
 Cultural preservation is a hot topic and a key part of maintaining identity and traditions. Formal recognition by UNESCO signifies a formal plan is in place and a commitment is being made by the government to take measure to promote and preserve that piece of culture.
 This page shows a list of past applications as a basis for determining what is applicable and how it can be carried out.
+
+
+![image](attachments/2026-10-19-diagram-r856.webp)
