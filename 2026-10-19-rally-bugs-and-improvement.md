@@ -16,3 +16,4 @@ Rapid startup options with on screen touch targets and controls for rounds and t
 - plug in music/now playing eg connect a source or playlist for focus mode music. Play with select speakers. Integration with macrodroid?
 - there is already a system notifications feature. How does this work, whtat it does and possibilities.
 - metronome
+Prompts for intervals. Movement reminders. Water prompts etc.
