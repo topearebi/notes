@@ -7,7 +7,7 @@ date: 2026-10-18 05:48 +0100
 - Dark mode is broken. Across all screens. Editor and note creator are uselles
 - there's a bug with the Dropbox connection. It always creates a duplicate connection that doesn't sync
 - highlights don't show the stage pill in the feed menu, but they show it in the note view.
-- the keyboard shortcut guide in settings is gone
+- the keyboard shortcut guide in settings only shows up on desktop. However a user could very well connect a keyboard to their phone. We could either detect this to display it dynamically or just show it.
 
 
 ## Ideas
