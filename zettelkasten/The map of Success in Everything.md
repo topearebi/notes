@@ -22,3 +22,6 @@ Increase trust
 
 
 ![image](attachments/2026-10-19-diagram-ysj6.webp)
+
+
+![88843](attachments/2026-10-19-diagram-jyq7.webp)
