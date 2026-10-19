@@ -17,3 +17,4 @@ Rapid startup options with on screen touch targets and controls for rounds and t
 - there is already a system notifications feature. How does this work, whtat it does and possibilities.
 - metronome
 Prompts for intervals. Movement reminders. Water prompts etc.
+- Can the app, timer, Emory and shared sessions survive if the app is closed and then repopened
