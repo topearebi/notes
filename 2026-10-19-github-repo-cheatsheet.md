@@ -1,5 +1,5 @@
 ---
-title: Github Repo Cheatsheet
+title: Managing Github Repos in Crostini Cheatsheet
 date: 2026-10-19 19:49 +0100
 ---
 
