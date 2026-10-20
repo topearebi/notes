@@ -25,3 +25,7 @@ This is interesting because
 - Source: [[Sophie B. Oluwole]]
 - Location: p. 12
 - [Jump to passage in book](readover://open?book=dbx%3Adropbox%20(abdullahi%20arebi)%7Cbooks%2FSophie_B_Oluwole.pdf&at=page%3D12)
+
+## Related
+
+- [[2026-10-20-philosophically-hating-ignos|Philosophically hating ignos]]
