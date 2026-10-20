@@ -1,14 +1,13 @@
 ---
 title: Building Apps with AI
 date: 2026-10-20 21:44 +0100
-tags: []
 ---
 
 ## Step 1: Defining requirements/Requirements engineering
 
 To build viable software, requirements must be clear. There are 3 key documents used to define clear requirements when building with AI
 
-### 1. SCHEMAS.md
+1. SCHEMAS.md
 This is the app blueprint. Defines the application data structures, types and rules.
   - Field names: eg user_id, url, streak_count
   - Data types: eg string, integer, boolean
