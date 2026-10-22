@@ -20,8 +20,79 @@ Prevents refactoring which can be expensive as it requires the AI to rewrite mul
 | Schema format | Best suited for | Key characteristics |
 | --- | --- | --- |
 | Typescript interfaces | checking data while it is being written from outside to the system. | Very readable for developers and AI agents but vanishes at runtime (while the app is actually running) |
-| JSON Schema | 
-| Zod / Valibot | 
+| JSON Schema | <!-- e.g. cross-language contracts, validation of inbound API payloads at runtime --> | <!-- e.g. runtime validation, language-agnostic, verbose --> |
+| Zod / Valibot | <!-- e.g. TypeScript apps needing runtime + compile-time validation --> | <!-- e.g. infers TS types, runtime validation, small bundle (Valibot) --> |
 
+#### How to write one
+<!-- Prompt: the repeatable sections every SCHEMAS.md should carry, in order.
+  - Entities / tables: what objects exist.
+  - Fields (per entity): name, type, required vs optional.
+  - Constraints: formats, ranges, enums, uniqueness.
+  - Relationships: one-to-many, foreign keys, cascades.
+  - Edge cases: empty states, nullability, defaults.
+-->
 
-2. AGENTS.md
+#### Worked example
+<!-- Prompt: use the personal-data "Hub" app from 2026-10-19-hub-bugs-and-improvements.md.
+  Per-person records: health, goals, habits, links, medical info.
+  → turn that list into entity + field definitions as the concrete illustration.
+-->
+
+#### Failure modes (when no schema exists)
+<!-- Prompt: catalogue drift you have actually observed or expect.
+  - Fields renamed mid-build (streak_count vs streakCount).
+  - Invented date/format conventions.
+  - Extra thinking + token cost from ambiguity.
+  - Multi-file refactors once the drift surfaces.
+-->
+
+### 2. AGENTS.md
+<!-- Prompt: the runtime context/rules the coding agent reads before touching code.
+  - Purpose: what this file does that SCHEMAS.md does not.
+  - Project overview + tech stack.
+  - Commands: install, run, test, lint, build.
+  - Conventions: naming, file layout, commit style.
+  - Do / Don't rules (guardrails against agent initiative).
+  - File map: where things live.
+-->
+
+> **Boundary to state explicitly:** SCHEMAS.md = data truth. AGENTS.md = behaviour truth.
+
+### 3. <!-- NAME THE THIRD DOCUMENT — currently missing -->
+<!-- Candidates:
+  - SPEC.md / PRD.md → what & why: user stories, acceptance criteria, out-of-scope.
+  - TASKS.md / PLAN.md → execution order: sequenced work units.
+  Recommendation: SPEC.md, since requirements engineering is this note's frame.
+-->
+<!-- Prompt: define its scope and its boundary against the other two. What goes in,
+     what stays out, and which document an ambiguous requirement belongs to.
+-->
+
+---
+
+## Step 2: The workflow (how the three interlock)
+<!-- Prompt: sequence them and say who reads what, when.
+  - Order: SPEC → SCHEMAS → AGENTS → build loop.
+  - At each stage: which document the agent loads and why.
+  - When each document gets revised (and what triggers a revision).
+-->
+
+---
+
+## Step 3: Definition of done
+<!-- Prompt: a checklist answering "requirements are complete when…".
+  - [ ] Every entity named and typed.
+  - [ ] Every constraint testable.
+  - [ ] No TBD / TODO left in the three docs.
+  - [ ] Edge cases enumerated.
+  - [ ] Commands in AGENTS.md verified to run.
+-->
+
+---
+
+## Step 4: Lessons learned
+<!-- Prompt: running failure log — this is what makes the note original.
+  | Date | Failure | Cost (tokens / refactor / time) | Fix applied |
+  | --- | --- | --- | --- |
+  | | | | |
+-->
