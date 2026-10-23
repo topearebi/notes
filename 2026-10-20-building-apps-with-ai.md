@@ -14,9 +14,9 @@ The first tool to deploy in this scoping exercise is a Product Requirements Docu
 
 There are many ways to write a PRD. But if you are already vibe coding, almost any chatbot will will help here. All you need is a grill/interview prompt to get the model to query you about the product you want to build. Prefereably in multiple rounds. It is a good idea to spend a lot of time answering these questions so the model has plenty of context about your vision in order to create the PRD.
 
-'''
+```
 Example prompt
-'''
+```
 To build viable software, requirements must be clear. There are 3 key documents used to define clear requirements when building with AI
 
 ### 1. SCHEMAS.md
