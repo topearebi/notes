@@ -6,7 +6,7 @@ date: 2026-10-20 21:44 +0100
 To reliably vibe code software, certain techniques, tools and processes can be employed to ensure that
   a. The build process is cost efficient
   b. The output is reliable
-
+---
 The essence of these tools and techniques is context settings. Ensuring that before you build, your Agent or Assistant has a context that has been scoped out clearly and definitively. This is intuitive because the key risk of an LLM is context drift. Or hallucination. Their scope of knowledge is so wide that when they are to be used for specific work, you must constrain what resources and directions they are able to employ/deploy in solving the set problem. Because at any single point in time they have more access to information than you do probably across your lifetime, this becomes a difficult problem indeed. And thus an important one.
 ---
 ## 1. Write a Product Requirements Document (PRD)
