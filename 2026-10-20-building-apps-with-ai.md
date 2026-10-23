@@ -4,26 +4,25 @@ date: 2026-10-20 21:44 +0100
 ---
 
 To reliably vibe code software, certain techniques, tools and processes can be employed to ensure that
-
-1. The build process is cost efficient
-2. The output is reliable
+  a. The build process is cost efficient
+  b. The output is reliable
 
 The essence of these tools and techniques is context settings. Ensuring that before you build, your Agent or Assistant has a context that has been scoped out clearly and definitively. This is intuitive because the key risk of an LLM is context drift. Or hallucination. Their scope of knowledge is so wide that when they are to be used for specific work, you must constrain what resources and directions they are able to employ/deploy in solving the set problem. Because at any single point in time they have more access to information than you do probably across your lifetime, this becomes a difficult problem indeed. And thus an important one.
-
+---
 ## 1. Write a Product Requirements Document (PRD)
 The first tool to deploy in this scoping exercise is a Product Requirements Document. PRDs are good both for you and your Agent because they also help you define the boundaries and purpose of your project. If you did not have a clear picture of what you wanted to build, the structure of a PRD draws it out and forces you to make decisions that will come to shape your agent's context.
 
 There are many ways to write a PRD. But if you are already vibe coding, almost any chatbot will will help here. All you need is a grill/interview prompt to get the model to query you about the product you want to build. Prefereably in multiple rounds. It is a good idea to spend a lot of time answering these questions so the model has plenty of context about your vision in order to create the PRD.
-
 ```
 Example prompt
 ```
-
+---
 ##  2. Define your frameworks.
 Now this requires some traditional software development knowledge. Frameworks are sort of like recipes for how you make a meal. You need to define what tools you want your agent to use to build your project.
 The very first layer of division of any product is its:
-a. frontend
-b. backend
+  a. Frontend
+  b. Backend
+
 The frontend is the part that you and your users can see and interact with. The backend is the part the computer uses to transport and process instructions and commands you send through the frontend, to render new states and information again on the frontend.
 Each of these parts can be built with a set of frameworks or languages, each with their own pros and cons.
 This could be react, javascript, typescript, node etc.
