@@ -1,6 +1,7 @@
 ---
 title: Building Apps with AI
 date: 2026-10-20 21:44 +0100
+tags: [AI]
 ---
 
 To reliably vibe code software, certain techniques, tools and processes can be employed to ensure that
