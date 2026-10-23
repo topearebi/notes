@@ -19,12 +19,31 @@ There are many ways to write a PRD. But if you are already vibe coding, almost a
 Example prompt
 ```
 
-## Define your frameworks and stacks
-The next
-To build viable software, requirements must be clear. There are 3 key documents used to define clear requirements when building with AI
+##  2. Define your frameworks.
+Now this requires some traditional software development knowledge. Frameworks are sort of like recipes for how you make a meal. You need to define what tools you want your agent to use to build your project.
+The very first layer of division of any product is its:
+a. frontend
+b. backend
+The frontend is the part that you and your users can see and interact with. The backend is the part the computer uses to transport and process instructions and commands you send through the frontend, to render new states and information again on the frontend.
+Each of these parts can be built with a set of frameworks or languages, each with their own pros and cons.
+This could be react, javascript, typescript, node etc.
+Defining this rather than letting your Agent make a decision ensures that you are making a conscious choice in what tradeoffs you are willing to make to accomplish your goal with the product.
 
-### 1. SCHEMAS.md
-This is the app blueprint. Defines the application data structures, types and rules.
+## 3. Find examples
+LLMs are basically synthesis machines. They recreate information using informaton. And so it is logical that giving you Agent actual examples of what you want to build, means they are able to better build it. You can take advantage of a multimodal LLM here and send actual images of designs, screens etc that you would like to build, and have your Agent adapt those designs into your new and unique product. The fact of the matter is, there are hardly any truly unique products. And once you start using AI, its a bit too late to be principled on originality.
+
+## 4. Helper documents
+A product is essentially a collection of files. Usually, you start with an empty directory. And as you give your agent commands, it starts to create new files and sometimes groups of files that it puts in a directory. What that means essentially is that besides all the magic of LLMs, its role in this process is to Create, Read, Update and Delete documents. To this end, there are a few documents you can create in your project directory at the start of your project to define how your Agent behaves, operates and interacts with all the files to come.
+Here's a list
+I. PRD.md (or SPEC.md)
+II. SCHEMAS.md
+III. AGENTS.md
+IV. TASKS.md (optional)
+V. DESIGN NOTES.md (optional)
+
+The .md filetype refers to markdown. Markdown is perhaps my favourite document type and the greatest thing ever invented. It is basically shorthand for notetaking. It lets you write documents and style them simply by appending symbols before or around them. Like html but just for document taking. Markdown lets you create information heirarchy and is perfectly human and machine readable. And it is also plaintext so markdown documents are very lightweight in terms of size. When you start vibecoding, you will come to find out that can quickly become very expensive.
+
+**SCHEMAS.md**:  This is the app blueprint. Defines the application data structures, types and rules.
   - Field names: eg user_id, url, streak_count
   - Data types: eg string, integer, boolean
   - Rules and constraints: eg required vs optional, url format, password requirements.
