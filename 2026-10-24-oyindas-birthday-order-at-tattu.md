@@ -6,14 +6,11 @@ date: 2026-10-24 11:30 +0100
 ### How to Order in 30 Seconds When You Sit Down
 
 >
->*"Hi! We’re ready to order everything right away:To start, could we get the apple juice for the little one and our table water?For the Skull Candy cocktail and my drink, could you please bring those out with our main courses rather than beforehand?   For food to share, we’ll do the Spicy Sesame Tuna Tartare and Wagyu Dumplings first, followed by the Caramel Soy Aged Beef Fillet, Wok Fired Angry Bird, and the Shredded Duck Fried Rice together.   And we have the pre-booked occasion fruit platter for the end."*
->
-> "Hi! We're ready to order right away. 
-> For food, we'd like to share the **Spicy Sesame Tuna Tartare**, **Wagyu Beef Dumplings**, **Caramel Soy Aged Beef Fillet**, **Wok Fired Angry Bird**, and **Shredded Duck Fried Rice**. We also have the **occasion platter** pre-booked for after."
->
-> To drink, could we start with one **Skull Candy**, one **apple juice**, and some **tap water**?
-> 
-> 
+> *"Hi! We’re ready to order right away:
+> To start, could we get some tap water for the table? 
+> For drinks, the Skull Candy cocktail. And then some apple juice. But could you please bring those out with our main courses rather than beforehand?   
+> For food to share, we’ll do the **Spicy Sesame Tuna Tartare** and **Wagyu Dumplings** first, followed by the **Caramel Soy Aged Beef Fillet**, **Wok Fired Angry Bird**, and the **Shredded Duck Fried Rice** together.   
+>And we have the pre-booked occasion fruit platter for the end."*
 
 ### The Full Pre-Planned Order
 
