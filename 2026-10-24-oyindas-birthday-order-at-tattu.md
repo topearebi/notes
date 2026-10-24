@@ -5,7 +5,6 @@ date: 2026-10-24 11:30 +0100
 
 ### How to Order in 30 Seconds When You Sit Down
 
->
 > *"Hi! We’re ready to order right away:
 >
 > To start, could we get some tap water for the table? 
