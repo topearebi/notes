@@ -7,9 +7,13 @@ date: 2026-10-24 11:30 +0100
 
 >
 > *"Hi! We’re ready to order right away:
+>
 > To start, could we get some tap water for the table? 
+>
 > For drinks, the Skull Candy cocktail. And then some apple juice. But could you please bring those out with our main courses rather than beforehand?   
+> 
 > For food to share, we’ll do the **Spicy Sesame Tuna Tartare** and **Wagyu Dumplings** first, followed by the **Caramel Soy Aged Beef Fillet**, **Wok Fired Angry Bird**, and the **Shredded Duck Fried Rice** together.   
+>
 >And we have the pre-booked occasion fruit platter for the end."*
 
 ### The Full Pre-Planned Order
