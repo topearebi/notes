@@ -1,7 +1,6 @@
 ---
 title: Oyinda's Birthday Order at Tattu
 date: 2026-10-24 11:30 +0100
-tags: []
 ---
 
 ### The Full Pre-Planned Order
