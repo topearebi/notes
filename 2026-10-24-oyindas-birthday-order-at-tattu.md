@@ -3,6 +3,17 @@ title: Oyinda's Birthday Order at Tattu
 date: 2026-10-24 11:30 +0100
 ---
 
+### How to Order in 30 Seconds When You Sit Down
+
+Tattu does not take online pre-orders for dine-in tables, but having your order ready bypasses the entire menu discussion. You can tell your server:
+
+> "Hi! We're ready to order right away. To drink, could we start with one **Skull Candy**, one **[Apple/Orange] juice**, and a bottle of **[still/sparkling/tap] water**?
+> 
+> 
+> For food, we'd like to share the **Spicy Sesame Tuna Tartare**, **Wagyu Beef Dumplings**, **Caramel Soy Aged Beef Fillet**, **Wok Fired Angry Bird**, and **Shredded Duck Fried Rice**. We also have the **occasion platter** pre-booked for after."
+> 
+>
+
 ### The Full Pre-Planned Order
 
 **Food (To Share):**
@@ -56,14 +67,3 @@ date: 2026-10-24 11:30 +0100
 (If you opt for complimentary tap water instead of bottled water, your subtotal is **£171.80**, bringing the total with service to **£193.28**.)
 
 ---
-
-### How to Order in 30 Seconds When You Sit Down
-
-Tattu does not take online pre-orders for dine-in tables, but having your order ready bypasses the entire menu discussion. You can tell your server:
-
-> "Hi! We're ready to order right away. To drink, could we start with one **Skull Candy**, one **[Apple/Orange] juice**, and a bottle of **[still/sparkling/tap] water**?
-> 
-> 
-> For food, we'd like to share the **Spicy Sesame Tuna Tartare**, **Wagyu Beef Dumplings**, **Caramel Soy Aged Beef Fillet**, **Wok Fired Angry Bird**, and **Shredded Duck Fried Rice**. We also have the **occasion platter** pre-booked for after."
-> 
->
