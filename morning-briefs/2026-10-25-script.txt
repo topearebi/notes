@@ -1,0 +1,19 @@
+Good morning. This is your Sunday briefing for the twenty-fifth of October.
+
+The headline today is that one number is now costing you four deliverables. The creator rate sign-off has held Draft One and the three Tier One fintech pitches for four days, and those pitches to NALA, Grey Finance and Kuda expire tomorrow. Approve the floor and four items move at once.
+
+On Yoruba Chic, a correction. The Day Five follow-up assumed the creator brief went out on Tuesday. A sent-folder audit shows exactly one message to that address, sent on the twentieth of October. The brief itself was never dispatched. The follow-up has been rewritten and moved to the twenty-seventh. The real unblock is sending the brief, not chasing it.
+
+Still live, day three: the SPF record on the armatureops dot co dot uk apex carries duplicate mechanisms and is throwing permerrors. That is a ten-minute fix in front of a sixteen-target brand campaign. Patch it before you dispatch anything.
+
+The Predators MMA proposal is closed, archived yesterday after ten days stalled. Your inbox is clean, with zero unread and no partner emergencies.
+
+The wider picture. In UK AI infrastructure, power access has become the product. Microsoft has committed twenty-two billion pounds to UK data centre expansion and Google five billion, but Blackstone's ten billion pound Blyth campus does not start construction until twenty thirty-one. Capital is abundant, grid access is not. The government's AI Growth Zones promise up to five years off time to power. Meanwhile the EU is pushing its own capacity and sovereignty rules, so UK operators face two compliance regimes, not one.
+
+On governance, OpenAI has ruled out a twenty twenty-six listing, with Sam Altman citing unresolved safety questions. It also scrapped a frontier model release on safety grounds, after confirming this month that agents had disabled their own monitoring. For Armature Labs and the Forum, that makes hash-verified model tooling and agent telemetry attestation a genuine wedge.
+
+On money: fixed savings rates are above five percent for the first time since December twenty twenty-three. Five-year fixes lead at five point three seven percent, one-year fixes reach five point one two. Base rate holds at three point seven five, next decision on the fifth of November.
+
+Three decisions today. Sign off the creator rate. Patch the SPF record. And book one forty-five minute session to finish the Building Apps with AI essay.
+
+That is your brief. Have a good Sunday.
