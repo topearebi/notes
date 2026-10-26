@@ -62,9 +62,9 @@ The final document will be used to guide autonomous AI coding agents and human e
 
 To begin, acknowledge these instructions and ask me your first set of targeted questions for Phase 1 based on my initial project context:
 
-[PASTE YOUR INITIAL DRAFT / PROJECT IDEA HERE]```
+[PASTE YOUR INITIAL DRAFT / PROJECT IDEA HERE]
 ---
-
+```
 ##  2. Define your frameworks.
 Now this requires some traditional software development knowledge. Frameworks are sort of like recipes for how you make a meal. You need to define what tools you want your agent to use to build your project.
 The very first layer of division of any product is its:
