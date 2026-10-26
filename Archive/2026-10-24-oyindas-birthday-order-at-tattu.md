@@ -1,6 +1,8 @@
 ---
 title: Oyinda's Birthday Order at Tattu
 date: 2026-10-24 11:30 +0100
+pruned: 2026-10-26
+pruned_from: /
 ---
 
 ### How to Order in 30 Seconds When You Sit Down
