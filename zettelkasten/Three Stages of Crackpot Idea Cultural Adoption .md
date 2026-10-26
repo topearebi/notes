@@ -15,3 +15,8 @@ According to an article by Jason Kehe in Wired, for a potentially unconventional
 - [[Zeitgeist formation - Is it the carrier or its contents]]
 - [[Zeitgeist Formation - The how]]
 - [[Zeitgeist formation - Nature and Definition of Evidence in the Digital Age]]
+
+## Thoughts
+
+- 2026-10-26: There is an interesting connection here between this and Neal Stephenson's Snow Crash where the Cult of Asherah functions as a viral meme idea however with more severe consequences for society
+  #viralideas
