@@ -74,6 +74,4 @@ landed Y".
 
 ---
 
-*Note: `skill_manage` failed to save this as a skill — the tool's action field
-repeatedly emitted `delete` regardless of input. Retry saving as a skill named
-`application-tailoring-engine` (category: productivity) on a later session.*
+*Status: saved as the skill `application-tailoring-engine` (category: productivity). Load it rather than re-reading this file.*
